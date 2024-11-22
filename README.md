@@ -1,4 +1,5 @@
-<h2 align="center">Hello 👋! I'm Ovi, Part-time CEO and Full-time student</h2>
+<h2 align="center">Hello 👋! I'm Ovi</h2>
+<h3 align="center">Part-time CEO and Full-time STUDENT</h3>
 
 ###
 
