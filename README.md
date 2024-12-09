@@ -2,6 +2,10 @@
 <h2 align="center">Hello 👋! I'm Ovi</h2>
 <h3 align="center">Part-time CEO and Full-time STUDENT</h3>
 
+###
+
+<img align="center" height="150" src="https://media.giphy.com/media/c2lbMLWfL1mQ8/giphy.gif" alt="Giphy Animation" />
+
 
 
 ###
@@ -94,9 +98,12 @@
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ovishkh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ovishkh&theme=dark&hide_border=false)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ovishkh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -104,6 +111,14 @@
 
 
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ovishkh/ovishkh/output/snake.svg" alt="Snake Animation" />
+
+###
 
 
 
