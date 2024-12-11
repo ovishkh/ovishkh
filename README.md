@@ -1,5 +1,5 @@
-<h2 align="center">Hello 👋! I'm Ovi</h2>
-<h3 align="center">Part-time CEO and Full-time STUDENT</h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=35&duration=4000&pause=500&center=true&width=500&height=70&lines=Hello+👋!++I'm+Ovi;Part-time++CEO;Full-time++STUDENT"/></a></h1>
+
 
 ###
 
@@ -29,7 +29,7 @@
 
 
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center;">
+<div align="center"> 
 
 
 ## GitHub Stats
