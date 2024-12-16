@@ -1,0 +1,71 @@
+body {
+      font-family: "Courier New", Courier, monospace;
+      background-color: #f5f5dc;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+  }
+  
+  .container {
+      text-align: center;
+      width: 90%;
+      max-width: 400px;
+  }
+  
+  .profile-pic {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      margin-bottom: 15px;
+  }
+  
+  h1 {
+      font-size: 1.8em;
+      margin: 5px 0;
+  }
+  
+  p {
+      font-size: 1em;
+      margin: 0 0 20px;
+  }
+  
+  .social-links {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin-bottom: 30px;
+  }
+  
+  .icon {
+      font-size: 2em;
+      margin: 0 10px;
+      color: #333;
+      text-decoration: none;
+  }
+  
+  .icon:hover {
+      color: #007bff;
+  }
+  
+  
+  .actions button {
+      font-family: "Courier New", Courier, monospace;
+      display: block;
+      width: 100%;
+      background-color: #fff;
+      border: 2px solid #333;
+      padding: 10px;
+      margin: 10px 0;
+      font-size: 1em;
+      cursor: pointer;
+  }
+  
+  .actions button:hover {
+      background-color: #333;
+      color: #fff;
+  }
+  
