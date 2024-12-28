@@ -1,15 +1,31 @@
+  <h1 align="center"> Hello👋 I'm Ovi </h1>
+
+  <h3 align="center"><- Passionate about -> </h3>
+
 <h1 align="center">
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=35&duration=4000&pause=500&center=true&width=500&height=70&lines=Hello+👋!++I'm+Ovi;Your+Friendly+Coder" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=35&duration=4000&pause=500&center=true&width=500&height=70&lines=AI;Blockchain;Quantum Computing" />
   </a>
 </h1>
 
-<h3 align="center">Passionate about AI, Blockchain, and Quantum Computing</h3>
-
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/c2lbMLWfL1mQ8/giphy.gif" alt="Giphy Animation" />
+<div >
+
+- 🔭 I’m currently working as the Chief Everything Officer at [ArkLab AI](https://arklabai.com).
+
+- 🌱 I’m learning Quantum Machine Learning 😎.
+
+- 📚 I’ve reviewed over 21+ technical books on Web Development, Database Design, and Data Mining.
+
+- 👯 I’m a collaborator with Mozilla and open to more collaboration opportunities.
+
+- 🥅 **2025 Goals**: Dive deeper into research on Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning, Blockchain, Satellite Image Segmentation, and more.
+
+- ⚡ **Fun fact**: I love to code.
+
+  
 </div>
 
 ###
@@ -38,14 +54,10 @@
 
 ## GitHub Stats
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 75%; margin-bottom: 20px;" />
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ovishkh&theme=dark&hide_border=false) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ovishkh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ovishkh/github-readme-activity-graph) |
 
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ovishkh&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 75%; margin-bottom: 20px;" />
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" style="width: 75%; margin-bottom: 20px;" />
 
 </div>
 
@@ -54,9 +66,9 @@
 
 
 
-<div align="left">
+<div align="center">
 
-#  Tech Stack
+##  Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -68,15 +80,14 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
 
-
-
-
-### **Hosting/SaaS**
+### **Hosting/Databases**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ### **Frameworks & Libraries**
@@ -88,21 +99,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
 
-
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-### **Design Tools**
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
 ### **ML/DL**
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
@@ -112,7 +108,10 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-### **Other Tools**
+### **Tools**
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
