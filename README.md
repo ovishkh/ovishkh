@@ -55,12 +55,12 @@
 
 ## GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ovishkh&theme=dark&hide_border=false) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&title_color=4299E1&icon_color=4299E1&text_color=ffffff) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ovishkh&theme=dark&hide_border=false&stroke=4299E1&ring=4299E1&fire=4299E1&currStreakLabel=4299E1) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ovishkh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ovishkh/github-readme-activity-graph) |
-
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=4299E1&icon_color=4299E1&text_color=ffffff) | [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ovishkh&bg_color=0d1117&color=4299E1&line=4299E1&point=ffffff&area=true&hide_border=true)](https://github.com/ovishkh/github-readme-activity-graph) |
 
 </div>
+
 
 
 
