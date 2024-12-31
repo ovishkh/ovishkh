@@ -5,7 +5,8 @@
 <h1 align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=35&duration=4000&pause=500&center=true&width=500&height=70&lines=AI;Blockchain;Quantum Computing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=35&duration=4000&pause=500&center=true&width=500&height=70&lines=AI;Blockchain;Quantum+Computing&color=4299E1" />
+
   </a>
 </h1>
 
@@ -63,6 +64,17 @@
 
 
 
+<h2 align="center" style="color:#4299E1;"> Learn With Me </h2>
+
+<p align="center">
+  <a href="https://github.com/ovishkh/AI-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AI-Learn&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI-Learn"></a>
+  <a href="https://github.com/ovishkh/Blockchain-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Blockchain-Learn&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="Blockchain-Learn"></a>
+  <a href="https://github.com/ovishkh/WEB-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=WEB-Learn&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="WEB-Learn"></a>
+  <a href="https://github.com/ovishkh/Solidity-Lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Solidity-Lang&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="Solidity-Lang"></a>
+  <a href="https://github.com/ovishkh/CPP-Lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CPP-Lang&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="CPP-Lang"></a>
+  <a href="https://github.com/ovishkh/JS-Lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=JS-Lang&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="JS-Lang"></a>
+  <a href="https://github.com/ovishkh/Java-Lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Java-Lang&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java-Lang"></a>
+</p>
 
 
 
