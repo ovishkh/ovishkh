@@ -74,7 +74,10 @@
   <a href="https://github.com/ovishkh/CPP-Lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CPP-Lang&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="CPP-Lang"></a>
   <a href="https://github.com/ovishkh/JS-Lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=JS-Lang&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="JS-Lang"></a>
   <a href="https://github.com/ovishkh/Java-Lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Java-Lang&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java-Lang"></a>
+  <a href="https://github.com/ovishkh/QML"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=QML&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="QML"></a>
+  <a href="https://github.com/ovishkh/YC-Guide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=YC-Guide&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="YC-Guide"></a>
 </p>
+
 
 
 
