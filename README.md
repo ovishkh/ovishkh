@@ -14,7 +14,7 @@
 
 <div >
 
-- 🔭 I’m currently working as the Chief Everything Officer at [ArkLab AI](https://arklabai.com).
+- 🔭 I’m currently working as the Chief Everything Officer at [Arklab AI](https://arklabai.com).
 
 - 🌱 I’m learning Quantum Machine Learning 😎.
 
