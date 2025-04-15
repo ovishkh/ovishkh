@@ -20,7 +20,7 @@
 
 - 📚 I’ve reviewed over 21+ technical books on Web Development, Database Design, and Data Mining.
 
-- 👯 I’m a collaborator with Mozilla and open to more collaboration opportunities.
+- 👯 I’m a collaborator with Mozilla Browser and open to more collaboration opportunities.
 
 - 🥅 **2025 Goals**: Dive deeper into research on Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning, Blockchain, Satellite Image Segmentation, and more.
 
