@@ -3,9 +3,12 @@
 <h3 align="center">🚀 Exploring the Future of Technology</h3>
 
 <h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=4299E1&center=true&vCenter=true&width=600&lines=🤖+AI+Enthusiast;🔗+Blockchain+Explorer;⚛️+Quantum+Computing+Dreamer;💡+Always+Learning+New+Things" alt="Typing-SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=4299E1&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+AI+Enthusiast;%F0%9F%94%97+Blockchain+Explorer;%E2%9A%9B%EF%B8%8F+Quantum+Computing+Dreamer;%F0%9F%92%A1+Always+Learning+New+Things" alt="Typing SVG" />
   </a>
+</p>
+
 </h1>
 
 <p align="center">
