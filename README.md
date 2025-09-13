@@ -1,14 +1,18 @@
-  <h1 align="center"> Hello👋 I'm Ovi </h1>
+<h1 align="center"> 👋 Hey there, I'm Ovi </h1>
 
-  <h3 align="center"><- Passionate about -> </h3>
+<h3 align="center">🚀 Exploring the Future of Technology</h3>
 
 <h1 align="center">
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=35&duration=4000&pause=500&center=true&width=500&height=70&lines=AI;Blockchain;Quantum+Computing&color=4299E1" />
-
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=4299E1&center=true&vCenter=true&width=600&lines=🤖+AI+Enthusiast;🔗+Blockchain+Explorer;⚛️+Quantum+Computing+Dreamer;💡+Always+Learning+New+Things" alt="Typing-SVG" />
   </a>
 </h1>
+
+<p align="center">
+ ✨ Passionate about building <strong>innovative solutions</strong>, exploring <strong>cutting-edge tech</strong>, and turning <strong>ideas into reality</strong>.  
+Let's connect and collaborate! 🚀
+</p>
+
 
 ###
 
