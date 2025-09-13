@@ -14,7 +14,7 @@
 
 <div >
 
-- 🔭 I’m currently working as the Chief Everything Officer at [Arklab AI](https://arklabai.com).
+- 🔭 I’m currently working as the CEO/Bekar at [Arklab AI](https://arklabai.com).
 
 - 🌱 I’m learning Quantum Machine Learning 😎.
 
@@ -52,9 +52,9 @@
 
 ## GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&title_color=4299E1&icon_color=4299E1&text_color=ffffff) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ovishkh&theme=dark&hide_border=false&stroke=4299E1&ring=4299E1&fire=4299E1&currStreakLabel=4299E1) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=4299E1&icon_color=4299E1&text_color=ffffff) | [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ovishkh&bg_color=0d1117&color=4299E1&line=4299E1&point=ffffff&area=true&hide_border=true)](https://github.com/ovishkh/github-readme-activity-graph) |
+ ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ovishkh&theme=dark&hide_border=false&stroke=4299E1&ring=4299E1&fire=4299E1&currStreakLabel=4299E1) 
+
+ [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ovishkh&bg_color=0d1117&color=4299E1&line=4299E1&point=ffffff&area=true&hide_border=true)](https://github.com/ovishkh/github-readme-activity-graph) |
 
 </div>
 
@@ -64,14 +64,24 @@
 <h2 align="center" style="color:#4299E1;"> Learn With Me </h2>
 
 <p align="center">
+  
   <a href="https://github.com/ovishkh/AI-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AI-Learn&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI-Learn"></a>
+  
   <a href="https://github.com/ovishkh/Blockchain-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Blockchain-Learn&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="Blockchain-Learn"></a>
+
+
   <a href="https://github.com/ovishkh/WEB-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=WEB-Learn&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="WEB-Learn"></a>
+  
   <a href="https://github.com/ovishkh/Solidity-Lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Solidity-Lang&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="Solidity-Lang"></a>
+  
   <a href="https://github.com/ovishkh/CPP-Lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CPP-Lang&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="CPP-Lang"></a>
+  
   <a href="https://github.com/ovishkh/JS-Lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=JS-Lang&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="JS-Lang"></a>
+  
   <a href="https://github.com/ovishkh/Java-Lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Java-Lang&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java-Lang"></a>
+  
   <a href="https://github.com/ovishkh/QML"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=QML&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="QML"></a>
+  
   <a href="https://github.com/ovishkh/YC-Guide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=YC-Guide&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="YC-Guide"></a>
 </p>
 
