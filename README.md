@@ -21,7 +21,7 @@ Let's connect and collaborate! 🚀
 
 <div >
 
-- 🔭 I’m currently working as the **Bekar**.
+- 🔭 I’m currently building my  **AaaS**.
 
 - 🌱 I’m learning Quantum Machine Learning 😎.
 
