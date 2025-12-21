@@ -21,7 +21,7 @@ Let's connect and collaborate! 🚀
 
 <div >
 
-- 🔭 I’m currently working as the **Co-Founder/CEO** at [Arklab AI](https://arklabai.com).
+- 🔭 I’m currently working as the **Bekar**.
 
 - 🌱 I’m learning Quantum Machine Learning 😎.
 
