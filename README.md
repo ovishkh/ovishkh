@@ -57,7 +57,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ovishkh&theme=dark&hide_border=true&stroke=4299E1&ring=4299E1&fire=4299E1&currStreakLabel=4299E1" alt="GitHub Streak Stats" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ovishkh&layout=compact&theme=dark&hide_border=true&title_color=4299E1&icon_color=4299E1&text_color=ffffff" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&layout=compact&theme=dark&hide_border=true&title_color=4299E1&icon_color=4299E1" alt="Top Languages" />
     </td>
   </tr>
 </table>
