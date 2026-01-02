@@ -68,20 +68,16 @@
 
 <br>
 
-<div align="center">
-
-<h2 style="color:#4299E1;"> 📚 Featured Repositories </h2>
+<h2 align="center" style="color:#4299E1;"> Learn With Me </h2>
 
 <p align="center">
-  <a href="https://github.com/ovishkh/YC-Guide"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=YC-Guide&theme=react&bg_color=0d1117&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="YC-Guide"></a>
-  <a href="https://github.com/ovishkh/AI-Learn"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AI-Learn&theme=react&bg_color=0d1117&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="AI-Learn"></a>
-  <a href="https://github.com/ovishkh/Blockchain-Learn"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Blockchain-Learn&theme=react&bg_color=0d1117&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="Blockchain-Learn"></a>
-  <a href="https://github.com/ovishkh/Agentic-Design-Patterns"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Agentic-Design-Patterns&theme=react&bg_color=0d1117&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="Agentic Design Patterns"></a>
-  <a href="https://github.com/ovishkh/BuilderKit"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=BuilderKit&theme=react&bg_color=0d1117&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="BuilderKit"></a>
-  <a href="https://github.com/ovishkh/QML"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=QML&theme=react&bg_color=0d1117&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="QML"></a>
+  <a href="https://github.com/ovishkh/YC-Guide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=YC-Guide&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="YC-Guide"></a>
+  <a href="https://github.com/ovishkh/AI-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AI-Learn&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI-Learn"></a>
+  <a href="https://github.com/ovishkh/Blockchain-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Blockchain-Learn&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="Blockchain-Learn"></a>
+  <a href="https://github.com/ovishkh/Agentic-Design-Patterns"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Agentic-Design-Patterns&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="A Hands-On Guide to Building Intelligent Systems"></a>
+  <a href="https://github.com/ovishkh/BuilderKit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=BuilderKit&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="BuilderKit"></a>
+  <a href="https://github.com/ovishkh/QML"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=QML&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="QML"></a>
 </p>
-
-</div>
 
 <br>
 
