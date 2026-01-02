@@ -69,9 +69,9 @@
 <h2 align="center" style="color:#4299E1;"> Products </h2>
 
 <p align="center">
-  <a href="https://cp.ovishekh.com/"><img width="278" src="career-pro.svg" alt="Career Pro"></a>
-  <a href="https://wisdomic.app/"><img width="278" src="wisdomic-ai.svg" alt="Wisdomic AI"></a>
-  <a href="https://tawheed.ovishekh.com/"><img width="278" src="tawheed-ai.svg" alt="Tawheed AI"></a>
+  <a href="https://cp.ovishekh.com/"><img width="278" src="img/career-pro.svg" alt="Career Pro"></a>
+  <a href="https://wisdomic.app/"><img width="278" src="img/wisdomic-ai.svg" alt="Wisdomic AI"></a>
+  <a href="https://tawheed.ovishekh.com/"><img width="278" src="img/tawheed-ai.svg" alt="Tawheed AI"></a>
 </p>
 
 <br>
@@ -79,6 +79,7 @@
 <h2 align="center" style="color:#4299E1;"> Works </h2>
 
 <p align="center">
+  <a href="https://github.com/ovishkh/anygpt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=anygpt&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="AnyGPT"></a>
   <a href="https://github.com/ovishkh/YC-Guide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=YC-Guide&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="YC-Guide"></a>
   <a href="https://github.com/ovishkh/AI-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AI-Learn&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="AI-Learn"></a>
   <a href="https://github.com/ovishkh/Blockchain-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Blockchain-Learn&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="Blockchain-Learn"></a>
