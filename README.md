@@ -111,6 +111,7 @@
 <h2 align="center" style="color:#4299E1;"> CSE Courses </h2>
 
 <p align="center">
+  <a href="https://github.com/ovishkh/CSE321_Data-Mining-and-Machine-Learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE321_Data-Mining-and-Machine-Learning&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 321 - Data Mining and Machine Learning"></a>
   <a href="https://github.com/ovishkh/CSE322_Data-Mining-and-Machine-Learning-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE322_Data-Mining-and-Machine-Learning-Lab&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 322 - Data Mining and Machine Learning Lab"></a>
   <a href="https://github.com/ovishkh/CSE332_Compilar_Design_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE332_Compilar_Design_Lab&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 332 - Compiler Design Lab"></a>
   <a href="https://github.com/ovishkh/CSE416_Web_Engineering_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE416_Web_Engineering_Lab&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 416 - Web Engineering Lab"></a>
