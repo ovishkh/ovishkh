@@ -22,7 +22,7 @@
 | :--- | :--- |
 | 🔭 Currently building my **AaaS** | 🌱 Learning **Quantum Machine Learning** |
 | 📚 Reviewed **21+ technical books** | 👯 Collaborator with **Mozilla Browser** |
-| ⚡ Fun fact: **I love to code** | 🎯 Goal: **Deep Research in AI & Web3** |
+| ⚡ Fun fact: **I love to code** | 🎯 Goal: **Deep Research in AI & ML** |
 
 </div>
 
