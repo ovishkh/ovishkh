@@ -91,7 +91,7 @@
   <a href="https://github.com/ovishkh/nextjs-boilerplate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=nextjs-boilerplate&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="nextjs-boilerplate"></a>
 </p>
 
-<h2 align="center" style="color:#4299E1;"> CSE Course </h2>
+<h2 align="center" style="color:#4299E1;"> CSE Courses </h2>
 
 <p align="center">
   <a href="https://github.com/ovishkh/CSE332_Compilar_Design_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE332_Compilar_Design_Lab&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=false" alt="CSE332_Compilar_Design_Lab"></a>
