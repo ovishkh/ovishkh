@@ -54,15 +54,17 @@
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.vercel.app/?user=ovishkh&theme=dark&hide_border=true&stroke=4299E1&ring=4299E1&fire=4299E1&currStreakLabel=4299E1" alt="GitHub Streak Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&layout=compact&theme=dark&hide_border=true&title_color=4299E1&icon_color=4299E1" alt="Top Languages" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=ovishkh&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="100%" />
     </td>
   </tr>
 </table>
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ovishkh&bg_color=0d1117&color=4299E1&line=4299E1&point=ffffff&area=true&hide_border=true)](https://github.com/ovishkh/github-readme-activity-graph)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ovishkh&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ovishkh)
 
 </div>
 
