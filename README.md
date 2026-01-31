@@ -54,7 +54,7 @@
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ovishkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&layout=compact&theme=dark&hide_border=true&title_color=4299E1&icon_color=4299E1" alt="Top Languages" />
     </td>
     <td width="50%" align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=ovishkh&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="100%" />
@@ -130,6 +130,14 @@
   <a href="https://github.com/ovishkh/nextjs-boilerplate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=nextjs-boilerplate&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="nextjs-boilerplate"></a>
   <a href="https://github.com/ovishkh/ml-boilerplate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=ml-boilerplate&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="ml-boilerplate"></a>
   <a href="https://github.com/ovishkh/ml_setup"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=ml_setup&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="ml_setup"></a>
+</p>
+
+<h2 align="center" style="color:#4299E1;"> Forked </h2>
+
+<p align="center">
+  <a href="https://github.com/ovishkh/x-algorithm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=x-algorithm&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="x-algorithm"></a>
+  <a href="https://github.com/ovishkh/llm-council"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=llm-council&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="llm-council"></a>
+  <a href="https://github.com/ovishkh/build-your-own-x"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=build-your-own-x&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="build-your-own-x"></a>
 </p>
 
 <br>
