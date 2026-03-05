@@ -83,13 +83,28 @@
   </tr>
   <tr>
     <td align="left">🧠 <a href="https://wisdomic.app/" style="color:#4299E1;">Wisdomic AI</a></td>
-    <td align="left">Intelligent knowledge management system powered by AI for learning, research, and personalized wisdom aggregation</td>
-    <td align="left">React, Node.js, FastAPI, MongoDB, Pinecone</td>
+    <td align="left">Research agent for literature review, gap analysis, LaTeX editor and intelligent academic paper analysis powered by AI</td>
+    <td align="left">React, Node.js, FastAPI, MongoDB, Google Cloud, Fine-tuned DeepSeek</td>
   </tr>
   <tr>
     <td align="left">✨ <a href="https://tawheed.ovishekh.com/" style="color:#4299E1;">Tawheed AI</a></td>
-    <td align="left">Advanced AI platform for intelligent task automation, data analysis, and enterprise solutions</td>
+    <td align="left">Islamic authenticity checking with AI, verifies social media and online content against Quran and Hadith with verification accuracy</td>
     <td align="left">Next.js, Python, FastAPI, PostgreSQL, Claude API</td>
+  </tr>
+  <tr>
+    <td align="left">💰 <a href="https://cryptell.io/" style="color:#4299E1;">Cryptell.io</a></td>
+    <td align="left">Fully functional decentralized crypto exchange platform with real-time trading, portfolio management, and secure wallet integration</td>
+    <td align="left">Next.js, Node.js, AWS, Web3.js</td>
+  </tr>
+  <tr>
+    <td align="left">📈 <a href="https://www.ovishekh.com/work/super-trader-ai" style="color:#4299E1;">Super Trader</a></td>
+    <td align="left">AI-powered crypto arbitrage platform that identifies and executes profitable trading opportunities across multiple exchanges in real-time</td>
+    <td align="left">Next.js, Node.js, Hostinger VPS, WebSocket APIs</td>
+  </tr>
+  <tr>
+    <td align="left">🎯 <a href="https://www.ovishekh.com/work/ilynk-app" style="color:#4299E1;">Ilynk App</a></td>
+    <td align="left">Micro gig marketplace connecting freelancers and clients for short-term projects, tasks, and services with secure payment and rating system</td>
+    <td align="left">Flutter, Dart, Apple Dev Kit, App Store, Play Store</td>
   </tr>
 </table>
 
