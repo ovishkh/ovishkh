@@ -1,6 +1,6 @@
-<h1 align="center"> 👋 Hey there, I'm Ovi </h1>
+<h1 align="center"> Hey there, I'm Ovi </h1>
 
-<h3 align="center">🚀 Exploring the Future of Technology</h3>
+<h3 align="center">Exploring the Future of Technology</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -49,21 +49,21 @@
 
 <div align="center">
 
-## 📊 **GitHub Analytics**
+## GitHub Analytics
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&layout=compact&theme=dark&hide_border=true&title_color=4299E1&icon_color=4299E1&show_icons=true" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&layout=compact&theme=github_dark_dimmed&hide_border=false&title_color=58A6FF&text_color=79C0FF&bg_color=0d1117&icon_color=79C0FF&show_icons=true&border_color=30363D" alt="Top Languages" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=ovishkh&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="100%" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=ovishkh&theme=github-dark-dimmed&hide_border=false" alt="GitHub Streak Stats" width="100%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ovishkh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ovishkh&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=58A6FF&text_color=79C0FF&bg_color=0d1117&border_color=30363D" alt="GitHub Stats" width="100%" />
 </p>
 
 </div>
@@ -74,37 +74,37 @@
   <tr>
     <td width="25%" align="center" style="color:#4299E1;"><strong>Project</strong></td>
     <td width="40%" align="center" style="color:#4299E1;"><strong>What it does</strong></td>
-    <td width="35%" align="center" style="color:#4299E1;"><strong>Stack</strong></td>
+    <td width="35%" align="center" style="color:#4299E1;"><strong>Stack & Deployment</strong></td>
   </tr>
   <tr>
-    <td align="left">🎯 <a href="https://cp.ovishekh.com/" style="color:#4299E1;">Career Pro</a></td>
+    <td align="left">► <a href="https://cp.ovishekh.com/" style="color:#4299E1;">Career Pro</a></td>
     <td align="left">AI-powered career platform for professional development, resume optimization, and job matching with personalized insights</td>
-    <td align="left">Next.js, Node.js, PostgreSQL, Redis, OpenAI API</td>
+    <td align="left">Next.js, Node.js, PostgreSQL, Redis, OpenAI API • <strong>Vercel</strong></td>
   </tr>
   <tr>
-    <td align="left">🧠 <a href="https://wisdomic.app/" style="color:#4299E1;">Wisdomic AI</a></td>
+    <td align="left">◆ <a href="https://wisdomic.app/" style="color:#4299E1;">Wisdomic AI</a></td>
     <td align="left">Research agent for literature review, gap analysis, LaTeX editor and intelligent academic paper analysis powered by AI</td>
-    <td align="left">React, Node.js, FastAPI, MongoDB, Google Cloud, Fine-tuned DeepSeek</td>
+    <td align="left">React, Node.js, FastAPI, MongoDB, Google Cloud, Fine-tuned DeepSeek • <strong>Google Cloud Platform</strong></td>
   </tr>
   <tr>
-    <td align="left">✨ <a href="https://tawheed.ovishekh.com/" style="color:#4299E1;">Tawheed AI</a></td>
+    <td align="left">◈ <a href="https://tawheed.ovishekh.com/" style="color:#4299E1;">Tawheed AI</a></td>
     <td align="left">Islamic authenticity checking with AI, verifies social media and online content against Quran and Hadith with verification accuracy</td>
-    <td align="left">Next.js, Python, FastAPI, PostgreSQL, Claude API</td>
+    <td align="left">Next.js, Python, FastAPI, PostgreSQL, Claude API • <strong>Cloudflare, Vercel, Digital Ocean</strong></td>
   </tr>
   <tr>
-    <td align="left">💰 <a href="https://cryptell.io/" style="color:#4299E1;">Cryptell.io</a></td>
+    <td align="left">◇ <a href="https://cryptell.io/" style="color:#4299E1;">Cryptell.io</a></td>
     <td align="left">Fully functional decentralized crypto exchange platform with real-time trading, portfolio management, and secure wallet integration</td>
-    <td align="left">Next.js, Node.js, AWS, Web3.js</td>
+    <td align="left">Next.js, Node.js, Web3.js • <strong>Amazon Web Services</strong></td>
   </tr>
   <tr>
-    <td align="left">📈 <a href="https://www.ovishekh.com/work/super-trader-ai" style="color:#4299E1;">Super Trader</a></td>
+    <td align="left">▲ <a href="https://www.ovishekh.com/work/super-trader-ai" style="color:#4299E1;">Super Trader</a></td>
     <td align="left">AI-powered crypto arbitrage platform that identifies and executes profitable trading opportunities across multiple exchanges in real-time</td>
-    <td align="left">Next.js, Node.js, Hostinger VPS, WebSocket APIs</td>
+    <td align="left">Next.js, Node.js, WebSocket APIs • <strong>Hostinger VPS</strong></td>
   </tr>
   <tr>
-    <td align="left">🎯 <a href="https://www.ovishekh.com/work/ilynk-app" style="color:#4299E1;">Ilynk App</a></td>
+    <td align="left">■ <a href="https://www.ovishekh.com/work/ilynk-app" style="color:#4299E1;">Ilynk App</a></td>
     <td align="left">Micro gig marketplace connecting freelancers and clients for short-term projects, tasks, and services with secure payment and rating system</td>
-    <td align="left">Flutter, Dart, Apple Dev Kit, App Store, Play Store</td>
+    <td align="left">Flutter, Dart, Apple Dev Kit, App Store, Play Store • <strong>App Stores</strong></td>
   </tr>
 </table>
 
