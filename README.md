@@ -82,7 +82,7 @@
     <td align="left">Next.js, Node.js, PostgreSQL, Redis, OpenAI API • <strong>Vercel</strong></td>
   </tr>
   <tr>
-    <td align="left">🧠 <a href="https://wisdomic.app/" style="color:#4299E1;">Wisdomic AI</a> <span style="background-color:#4299E1; color:white; padding:2px 6px; border-radius:3px; font-size:12px; font-weight:bold;">ACQUIRED 2025</span></td>
+    <td align="left">🧠 <a href="https://wisdomic.app/" style="color:#4299E1;">Wisdomic AI</a> <span style="background-color:#4299E1; color:white; padding:2px 6px; border-radius:3px; font-size:6px; font-weight:bold;">[Acquired'25]</span></td>
     <td align="left">Research agent for literature review, gap analysis, LaTeX editor and intelligent academic paper analysis powered by AI</td>
     <td align="left">React, Node.js, FastAPI, MongoDB, Google Cloud, Fine-tuned DeepSeek • <strong>Google Cloud Platform</strong></td>
   </tr>
@@ -104,7 +104,7 @@
   <tr>
     <td align="left">📱 <a href="https://www.ovishekh.com/work/ilynk-app" style="color:#4299E1;">Ilynk App</a></td>
     <td align="left">Micro gig marketplace connecting freelancers and clients for short-term projects, tasks, and services with secure payment and rating system</td>
-    <td align="left">Flutter, Dart, Apple Dev Kit • <strong>Play Store</strong></td>
+    <td align="left">Flutter, Dart, Apple Dev Kit • <strong>Play Store, App Store</strong></td>
   </tr>
 </table>
 
