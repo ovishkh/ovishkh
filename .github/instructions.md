@@ -7,11 +7,13 @@ applyTo: "**"
 # Ovishkh Portfolio Repository Instructions
 
 ## Overview
+
 This is a showcase portfolio repository featuring projects, open source works, courses, and documentation. All contributions should maintain professional appearance, consistency, and clarity.
 
 ## Markdown Documentation Standards
 
 ### Formatting & Structure
+
 - **Headers**: Use consistent hierarchy (`# H1`, `## H2`, `### H3` only; avoid deeper nesting)
 - **Line spacing**: Add blank lines between sections for readability
 - **Lists**: Use consistent bullet points (`-`) or numbered lists (`1.`)
@@ -22,13 +24,16 @@ This is a showcase portfolio repository featuring projects, open source works, c
 - **Badges**: Keep badge URLs canonical; use `img.shields.io` for consistency
 
 ### Project Documentation
+
 - **Project entry**: Include title, description (1 line max), tech stack, and deployment platform
 - **Links**: Every project must have a working link (demo, GitHub, or live URL)
 - **Tech stack**: Format as: `Framework, Backend, Database, Special Services • Deployment`
 - **Status badges**: If present, keep date format consistent (e.g., "Jan 2026")
 
 ### Sections Organization
+
 Maintain this order for consistency:
+
 1. Header & Introduction
 2. GitHub Analytics (auto-generated)
 3. Products (with deployment links)
@@ -43,12 +48,14 @@ Maintain this order for consistency:
 ## Badge & Link Consistency
 
 ### URL Patterns
+
 - **Social links**: Use official platform badge links (YouTube, LinkedIn, Twitter, Website)
 - **Project links**: Prefer live deployment over GitHub when both exist
 - **Badge colors**: Primary color is `#4299E1` (blue); keep consistent
 - **Alt text**: Every image must have descriptive `alt=` attribute
 
 ### Badge Maintenance
+
 - Update "Last Updated" badge when making significant changes
 - Date format: "Jan 2026", "Feb 2026", etc. (Month YYYY)
 - Verify all badge URLs are still functional before commits
@@ -56,12 +63,14 @@ Maintain this order for consistency:
 ## Code Quality for Markdown
 
 ### HTML Usage
+
 - Use semantic HTML only (e.g., `<div align="center">`, `<p align="center">`, `<table>`)
 - Avoid inline CSS; use align attributes instead
 - Keep nesting to 2 levels max
 - Close all tags properly
 
 ### Links & References
+
 - Verify all href links are valid and accessible
 - Use relative paths for internal repo links
 - Use absolute URLs for external sites
@@ -70,12 +79,14 @@ Maintain this order for consistency:
 ## Project Structure & Organization
 
 ### Naming Conventions
+
 - Section headers: `## Title Case With Spaces`
 - Project names: Use original project names as-is
 - Repository names: Use original repo names without modifications
 - Files: Use `.md` extension for markdown; no spaces in internal file names
 
 ### Hierarchy Rules
+
 - Products: Sorted by importance/recent activity
 - Open Source: Showcase best work; include brief descriptions
 - Courses: Organized alphabetically by course code
@@ -84,6 +95,7 @@ Maintain this order for consistency:
 ## Git Commit Conventions
 
 ### Commit Message Format
+
 ```
 <type>: <subject>
 
@@ -91,6 +103,7 @@ Maintain this order for consistency:
 ```
 
 **Types**:
+
 - `docs`: Documentation or README updates
 - `style`: Formatting, badges, layout changes
 - `feat`: Add new project or section
@@ -99,12 +112,14 @@ Maintain this order for consistency:
 - `chore`: Maintenance tasks
 
 ### Subject Line
+
 - Start with lowercase (after type prefix)
 - Max 50 characters
 - Use imperative mood ("add project" not "added project")
 - No period at end
 
 ### Examples
+
 ```
 docs: update tech stack section with new badges
 fix: correct broken link to Career Pro project
@@ -116,6 +131,7 @@ style: align all badge colors to primary blue
 ## Consistency Checkpoints
 
 Before committing, verify:
+
 - [ ] All links are functional (no 404s or redirects)
 - [ ] Markdown syntax is valid (no broken tables, lists, or formatting)
 - [ ] Badge colors match primary `#4299E1`
@@ -128,6 +144,7 @@ Before committing, verify:
 ## Technology Focus Areas
 
 This portfolio showcases:
+
 - **Frontend**: React, Next.js, TypeScript, Flutter
 - **Backend**: Node.js, FastAPI, Python, Dart
 - **Databases**: PostgreSQL, MongoDB, Firebase
