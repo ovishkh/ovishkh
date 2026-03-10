@@ -3,11 +3,13 @@
 ## Snake Animation Workflow (`snake.yml`)
 
 ### Overview
+
 The snake.yml workflow automatically generates an animated snake contribution graph visualization that displays your GitHub activity over time. This animation appears on your profile README and provides a visual representation of your commit history.
 
 ### How It Works
 
 #### Triggers
+
 The workflow is triggered in three ways:
 
 1. **Scheduled (Every 12 hours)**
@@ -25,11 +27,13 @@ The workflow is triggered in three ways:
 #### Job Steps
 
 **Step 1: Checkout Repository**
+
 - Action: `actions/checkout@v3`
 - Purpose: Downloads the repository code into the workflow environment
 - Necessary for accessing repository data and configuration
 
 **Step 2: Generate Snake Animation**
+
 - Action: `Platane/snk/svg-only@v3`
 - Purpose: Creates the snake.svg file based on GitHub contribution data
 - Configuration:
@@ -38,6 +42,7 @@ The workflow is triggered in three ways:
   - Uses your contribution history to animate the snake movement
 
 **Step 3: Push to Output Branch**
+
 - Action: `crazy-max/ghaction-github-pages@v3.1.0`
 - Purpose: Pushes the generated snake.svg to the `output` branch
 - Configuration:
@@ -47,12 +52,14 @@ The workflow is triggered in three ways:
   - Uses `GITHUB_TOKEN` for authentication
 
 #### Output Files
+
 - **Location**: `output` branch
 - **File**: `snake.svg`
 - **Format**: SVG (Scalable Vector Graphics)
 - **Theme**: GitHub Dark theme with color palette matching GitHub's dark mode
 
 #### Performance Settings
+
 - **Timeout**: 10 minutes (sufficient for large contribution histories)
 - **Permissions**: `contents: write` (required to push to output branch)
 - **Environment**: `ubuntu-latest`
