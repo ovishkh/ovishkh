@@ -18,11 +18,11 @@
 
 <div align="center">
 
-| 🚀 **Quick Stats**                  | 🛠️ **Current Focus**                     |
-| :---------------------------------- | :--------------------------------------- |
+| 🚀 **Quick Stats**                                 | 🛠️ **Current Focus**                     |
+| :------------------------------------------------- | :--------------------------------------- |
 | 🔭 Currently building **Arklab AI** {arklabai.com} | 🌱 Learning **Quantum Machine Learning** |
-| 📚 Reviewed **21+ technical books** | 👯 Collaborator with **Mozilla Browser** |
-| ⚡ Fun fact: **I love to code**     | 🎯 Goal: **Deep Research in AI & ML**    |
+| 📚 Reviewed **21+ technical books**                | 👯 Collaborator with **Mozilla, Zed, Brave** |
+| ⚡ Fun fact: **I love to code**                    | 🎯 Goal: **Deep Research in AI & ML**    |
 
 </div>
 
