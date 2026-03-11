@@ -18,11 +18,11 @@
 
 <div align="center">
 
-| 🚀 **Quick Stats**                                          | 🛠️ **Current Focus**                         |
+| � **Achievements**                                         | 🎯 **2026 Roadmap**                          |
 | :---------------------------------------------------------- | :------------------------------------------- |
-| 🔭 Currently building [**Arklab AI**](https://arklabai.com) | 🌱 Learning **Quantum Machine Learning**     |
-| 📚 Reviewed **21+ technical books**                         | 👯 Collaborator with **Mozilla, Zed, Brave** |
-| ⚡ Fun fact: **I love to code**                             | 🎯 Goal: **Deep Research in AI & ML**        |
+| 🏆 **4 Companies Built** (Cryptell, Tawheed, Career Pro, Wisdomic) | 🚀 Scale **Arklab AI** to 100K+ users       |
+| 🌐 **500K+ Impressions** across platforms                  | 🤖 Research **AGI Safety & Alignment**       |
+| 💡 **10+ AI/ML Projects** shipped to production            | 📖 Write **Technical Blog** on Advanced AI   |
 
 </div>
 
@@ -30,6 +30,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ovishkh&color=4299E1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <strong>Last Updated: March 2026</strong>
 </p>
 
 <div align="center">
