@@ -33,9 +33,6 @@
 </p>
 
 <div align="center">
-  <a href="https://ovishekh.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=4299E1&logoColor=white&style=for-the-badge" height="35" alt="Website" />
-  </a>
   <a href="https://www.youtube.com/@ovishkh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
   </a>
@@ -44,6 +41,9 @@
   </a>
   <a href="https://twitter.com/ovishkh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter" />
+  </a>
+  <a href="https://ovishekh.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=808080&logoColor=white&style=for-the-badge" height="35" alt="Website" />
   </a>
 </div>
 
