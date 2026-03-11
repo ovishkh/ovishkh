@@ -16,17 +16,26 @@
 
 <br>
 
-### 🚀 Quick Stats
-
-- 🔭 Currently building [**Arklab AI**](https://arklabai.com)
-- 📚 Reviewed **21+ technical books**
-- ⚡ Fun fact: **I like deep neural nets.**
-
-### 🛠️ Current Focus
-
-- 🌱 Learning **Quantum Machine Learning**
-- 👯 Contributor: **Mozilla, Zed, Brave**
-- 🎯 Goal: **Deep Research in AI & ML**
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white;">
+        <h3>🚀 Quick Stats</h3>
+        <p>🔭 Currently building <strong><a href="https://arklabai.com" style="color: white;">Arklab AI</a></strong></p>
+        <p>📚 Reviewed <strong>21+ technical books</strong></p>
+        <p>⚡ Fun fact: <strong>I like deep neural nets</strong></p>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px; color: white;">
+        <h3>🛠️ Current Focus</h3>
+        <p>🌱 Learning <strong>Quantum Machine Learning</strong></p>
+        <p>👯 Contributor: <strong>Mozilla, Zed, Brave</strong></p>
+        <p>🎯 Goal: <strong>Deep Research in AI & ML</strong></p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -206,10 +215,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ovishkh&theme=radical&column=8&margin-w=4&title=Stars,Followers,Commits,Repositories,MultiLanguage,Organizations,Issues,Experience" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <strong>Last Updated: March 2026</strong>
 </p>
 
 </div>
