@@ -200,7 +200,7 @@
 ## 🏆 **Achievements**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ovishkh&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Stars,Followers,Commits,Repositories,MultiLanguage,Organizations,Issues,Experience" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ovishkh&theme=radical&column=8&margin-w=4&title=Stars,Followers,Commits,Repositories,MultiLanguage,Organizations,Issues,Experience" alt="GitHub Trophies" />
 </p>
 
 </div>
