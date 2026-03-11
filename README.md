@@ -49,7 +49,7 @@
 
 <div align="center">
 
-## Contribution Graph
+## GitHub Analytics
 
 <table border="0" width="100%">
   <tr>
@@ -63,7 +63,7 @@
 </table>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ovishkh&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=58A6FF&text_color=79C0FF&bg_color=0d1117&border_color=30363D" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ovishkh&theme=github-dark&hide_border=false&bg_color=0d1117&color=58A6FF&line=79C0FF&point=79C0FF" alt="Contribution Graph" width="100%" />
 </p>
 
 </div>
