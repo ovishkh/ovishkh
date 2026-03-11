@@ -16,28 +16,22 @@
 
 <br>
 
-<div align="center">
-
 ### 🚀 Quick Stats
+
 - 🔭 Currently building [**Arklab AI**](https://arklabai.com)
 - 📚 Reviewed **21+ technical books**
-- ⚡ Fun fact: **I love to code**
+- ⚡ Fun fact: **I like deep neural nets.**
 
 ### 🛠️ Current Focus
-- 🌱 Learning **Quantum Machine Learning**
-- 👯 Collaborator with **Mozilla, Zed, Brave**
-- 🎯 Goal: **Deep Research in AI & ML**
 
-</div>
+- 🌱 Learning **Quantum Machine Learning**
+- 👯 Contributor: **Mozilla, Zed, Brave**
+- 🎯 Goal: **Deep Research in AI & ML**
 
 <br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ovishkh&color=4299E1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <strong>Last Updated: March 2026</strong>
 </p>
 
 <div align="center">
@@ -212,6 +206,10 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ovishkh&theme=radical&column=8&margin-w=4&title=Stars,Followers,Commits,Repositories,MultiLanguage,Organizations,Issues,Experience" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <strong>Last Updated: March 2026</strong>
 </p>
 
 </div>
