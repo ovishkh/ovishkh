@@ -16,7 +16,9 @@
 
 <br>
 
-<table border="0" width="100%">
+<div align="center">
+
+<table border="0" width="80%">
   <tr>
     <td width="50%" align="center">
       <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white;">
@@ -36,6 +38,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 <br>
 
