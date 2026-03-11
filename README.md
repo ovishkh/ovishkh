@@ -49,7 +49,7 @@
 
 <div align="center">
 
-## GitHub Analytics
+## Contribution Graph
 
 <table border="0" width="100%">
   <tr>
