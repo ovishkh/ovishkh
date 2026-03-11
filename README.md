@@ -16,33 +16,6 @@
 
 <br>
 
-<div align="center">
-
-<table border="0" width="80%">
-  <tr>
-    <td width="50%" align="center">
-      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white;">
-        <h3>🚀 Quick Stats</h3>
-        <p>🔭 Currently building <strong><a href="https://arklabai.com" style="color: white;">Arklab AI</a></strong></p>
-        <p>📚 Reviewed <strong>21+ technical books</strong></p>
-        <p>⚡ Fun fact: <strong>I like deep neural nets</strong></p>
-      </div>
-    </td>
-    <td width="50%" align="center">
-      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px; color: white;">
-        <h3>🛠️ Current Focus</h3>
-        <p>🌱 Learning <strong>Quantum Machine Learning</strong></p>
-        <p>👯 Contributor: <strong>Mozilla, Zed, Brave</strong></p>
-        <p>🎯 Goal: <strong>Deep Research in AI & ML</strong></p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ovishkh&color=4299E1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
