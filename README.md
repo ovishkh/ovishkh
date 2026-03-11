@@ -18,11 +18,15 @@
 
 <div align="center">
 
-| � **Achievements**                                         | 🎯 **2026 Roadmap**                          |
-| :---------------------------------------------------------- | :------------------------------------------- |
-| 🏆 **4 Companies Built** (Cryptell, Tawheed, Career Pro, Wisdomic) | 🚀 Scale **Arklab AI** to 100K+ users       |
-| 🌐 **500K+ Impressions** across platforms                  | 🤖 Research **AGI Safety & Alignment**       |
-| 💡 **10+ AI/ML Projects** shipped to production            | 📖 Write **Technical Blog** on Advanced AI   |
+### 🚀 Quick Stats
+- 🔭 Currently building [**Arklab AI**](https://arklabai.com)
+- 📚 Reviewed **21+ technical books**
+- ⚡ Fun fact: **I love to code**
+
+### 🛠️ Current Focus
+- 🌱 Learning **Quantum Machine Learning**
+- 👯 Collaborator with **Mozilla, Zed, Brave**
+- 🎯 Goal: **Deep Research in AI & ML**
 
 </div>
 
