@@ -1,18 +1,24 @@
-<h1 align="center"> Hey there, I'm Ovi </h1>
+<div align="center">
 
-<h3 align="center">Exploring the Future of Technology</h3>
+<!-- Header Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4299E1&height=200&section=header&text=Ovi%20Shekh&fontSize=80&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+</p>
+
+<h1> Hey there, I'm Ovi </h1>
+
+<h3>Exploring the Future of Technology</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=4299E1&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+AI+Enthusiast;%F0%9F%94%97+Blockchain+Explorer;%E2%9A%9B%EF%B8%8F+Quantum+Computing+Dreamer;%F0%9F%92%A1+Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=3000&pause=800&color=4299E1&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+AI+Enthusiast;%F0%9F%94%97+Blockchain+Explorer;%E2%9A%9B%EF%B8%8F+Quantum+Computing+Learner;%F0%9F%92%A1+Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  ✨ Passionate about building <strong>innovative solutions</strong>, exploring <strong>cutting-edge tech</strong>, and turning <strong>ideas into reality</strong>.  
-  <br>
-  Let's connect and collaborate! 🚀
-</p>
+✨ Passionate about building **innovative solutions**, exploring **cutting-edge tech**, and turning **ideas into reality**.  
+<br>
+Let's connect and collaborate! 🚀
+</div>
 
 <br>
 
@@ -198,11 +204,38 @@
 
 <br>
 
+<br>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/ovishkh/ovishkh/output/snake.svg" alt="Snake Animation" />
 </div>
 
 <br>
+
+<hr>
+
+<div align="center">
+  <h3>Let's Innovate Together 🚀</h3>
+  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
+  
+  <a href="mailto:ovi@ovishekh.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ovishkh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/ovishkh">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4299E1&height=100&section=footer" alt="Footer Banner" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Last%20Updated-Mar%202026-4299E1?style=flat-square" alt="Last Updated" />
 </p>
+
