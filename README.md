@@ -2,7 +2,7 @@
 
 <!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4299E1&height=200&section=header&text=Hey%20there,%20I'm%20Ovi&fontSize=70&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=200&section=header&text=Hey%20there,%20I'm%20Ovi&fontSize=70&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=3000&pause=800&color=4299E1&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+AI+Enthusiast;%F0%9F%94%97+Blockchain+Explorer;%E2%9A%9B%EF%B8%8F+Quantum+Computing+Learner;%F0%9F%92%A1+Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+AI+Enthusiast;%F0%9F%94%97+Blockchain+Explorer;%E2%9A%9B%EF%B8%8F+Quantum+Computing+Learner;%F0%9F%92%A1+Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,9 +23,9 @@ Let's connect and collaborate! 🚀
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ovishkh&color=4299E1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ovishkh&color=9333EA&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://github.com/ovishkh?tab=followers">
-    <img src="https://img.shields.io/github/followers/ovishkh?label=FOLLOWERS&style=flat-square&color=4299E1" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/ovishkh?label=FOLLOWERS&style=flat-square&color=9333EA" alt="Followers" />
   </a>
 </p>
 
@@ -54,55 +54,55 @@ Let's connect and collaborate! 🚀
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&layout=compact&theme=github_dark_dimmed&hide_border=false&title_color=58A6FF&text_color=79C0FF&bg_color=0d1117&icon_color=79C0FF&show_icons=true&border_color=30363D" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&layout=compact&theme=github_dark_dimmed&hide_border=false&title_color=9333EA&text_color=C084FC&bg_color=0d1117&icon_color=C084FC&show_icons=true&border_color=30363D" alt="Top Languages" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=ovishkh&theme=github-dark-dimmed&hide_border=false" alt="GitHub Streak Stats" width="100%" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=ovishkh&stroke=9333EA&fire=9333EA&ring=C084FC&currStreakNum=C084FC&theme=github-dark-dimmed&hide_border=false" alt="GitHub Streak Stats" width="100%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ovishkh&theme=github-dark&hide_border=false&bg_color=0d1117&color=58A6FF&line=79C0FF&point=79C0FF" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ovishkh&theme=github-dark&hide_border=false&bg_color=0d1117&color=9333EA&line=C084FC&point=C084FC" alt="Contribution Graph" width="100%" />
 </p>
 
 </div>
 
-<h2 align="center" style="color:#4299E1;"> Products </h2>
+<h2 align="center" style="color:#9333EA;"> Products </h2>
 
 <table border="0" width="100%">
   <tr>
-    <td width="25%" align="center" style="color:#4299E1;"><strong>Project</strong></td>
-    <td width="40%" align="center" style="color:#4299E1;"><strong>What it does</strong></td>
-    <td width="35%" align="center" style="color:#4299E1;"><strong>Stack & Deployment</strong></td>
+    <td width="25%" align="center" style="color:#9333EA;"><strong>Project</strong></td>
+    <td width="40%" align="center" style="color:#9333EA;"><strong>What it does</strong></td>
+    <td width="35%" align="center" style="color:#9333EA;"><strong>Stack & Deployment</strong></td>
   </tr>
   <tr>
-    <td align="left">🎯 <a href="https://cp.ovishekh.com/" style="color:#4299E1;">Career Pro</a></td>
+    <td align="left">🎯 <a href="https://cp.ovishekh.com/" style="color:#9333EA;">Career Pro</a></td>
     <td align="left">AI-powered career platform for professional development, resume optimization, and job matching with personalized insights</td>
     <td align="left">Next.js, Node.js, PostgreSQL, Redis, OpenAI API • <strong>Vercel</strong></td>
   </tr>
   <tr>
-    <td align="left">🧠 <a href="https://wisdomic.app/" style="color:#4299E1;">Wisdomic AI</a> <span style="background-color:#4299E1; color:white; padding:2px 6px; border-radius:3px; font-size:6px; font-weight:bold;">[Acquired'25]</span></td>
+    <td align="left">🧠 <a href="https://wisdomic.app/" style="color:#9333EA;">Wisdomic AI</a> <span style="background-color:#9333EA; color:white; padding:2px 6px; border-radius:3px; font-size:6px; font-weight:bold;">[Acquired'25]</span></td>
     <td align="left">Research agent for literature review, gap analysis, LaTeX editor and intelligent academic paper analysis powered by AI</td>
     <td align="left">React, Node.js, FastAPI, MongoDB, Google Cloud, Fine-tuned DeepSeek • <strong>Google Cloud Platform</strong></td>
   </tr>
   <tr>
-    <td align="left">✨ <a href="https://tawheed.ovishekh.com/" style="color:#4299E1;">Tawheed AI</a></td>
+    <td align="left">✨ <a href="https://tawheed.ovishekh.com/" style="color:#9333EA;">Tawheed AI</a></td>
     <td align="left">Islamic authenticity checking with AI, verifies social media and online content against Quran and Hadith with verification accuracy</td>
     <td align="left">Next.js, Python, FastAPI, PostgreSQL, Claude API • <strong>Cloudflare, Vercel, Digital Ocean</strong></td>
   </tr>
   <tr>
-    <td align="left">💰 <a href="https://cryptell.io/" style="color:#4299E1;">Cryptell.io</a></td>
+    <td align="left">💰 <a href="https://cryptell.io/" style="color:#9333EA;">Cryptell.io</a></td>
     <td align="left">Fully functional decentralized crypto exchange platform with real-time trading, portfolio management, and secure wallet integration</td>
     <td align="left">Next.js, Node.js, Web3.js • <strong>Amazon Web Services</strong></td>
   </tr>
   <tr>
-    <td align="left">📈 <a href="https://www.ovishekh.com/work/super-trader-ai" style="color:#4299E1;">Super Trader</a></td>
+    <td align="left">📈 <a href="https://www.ovishekh.com/work/super-trader-ai" style="color:#9333EA;">Super Trader</a></td>
     <td align="left">AI-powered crypto arbitrage platform that identifies and executes profitable trading opportunities across multiple exchanges in real-time</td>
     <td align="left">Next.js, Node.js, WebSocket APIs • <strong>Hostinger VPS</strong></td>
   </tr>
   <tr>
-    <td align="left">📱 <a href="https://www.ovishekh.com/work/ilynk-app" style="color:#4299E1;">Ilynk App</a></td>
+    <td align="left">📱 <a href="https://www.ovishekh.com/work/ilynk-app" style="color:#9333EA;">Ilynk App</a></td>
     <td align="left">Micro gig marketplace connecting freelancers and clients for short-term projects, tasks, and services with secure payment and rating system</td>
     <td align="left">Flutter, Dart, Apple Dev Kit • <strong>Play Store, App Store</strong></td>
   </tr>
@@ -110,69 +110,69 @@ Let's connect and collaborate! 🚀
 
 <br>
 
-<h2 align="center" style="color:#4299E1;"> Open Source Works </h2>
+<h2 align="center" style="color:#9333EA;"> Open Source Works </h2>
 
 <p align="center">
-  <a href="https://github.com/ovishkh/AndyOS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AndyOS&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="AndyOS"></a>
-  <a href="https://github.com/ovishkh/SalamApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=SalamApp&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="SalamApp"></a>
-  <a href="https://github.com/ovishkh/ChessLM"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=ChessLM&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="ChessLM"></a>
-  <a href="https://github.com/ovishkh/WeatherApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=WeatherApp&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="WeatherApp"></a>
-  <a href="https://github.com/ovishkh/imam"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=imam&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="imam"></a>
-  <a href="https://github.com/ovishkh/AniPlay"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AniPlay&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="AniPlay"></a>
-  <a href="https://github.com/ovishkh/BlockChat"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=BlockChat&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="BlockChat"></a>
-  <a href="https://github.com/ovishkh/anygpt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=anygpt&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="AnyGPT"></a>
-  <a href="https://github.com/ovishkh/TubeScope"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=TubeScope&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="TubeScope"></a>
-  <a href="https://github.com/ovishkh/FONTY"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=FONTY&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="FONTY"></a>
-  <a href="https://github.com/ovishkh/TinyCompiler"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=TinyCompiler&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="TinyCompiler"></a>
-  <a href="https://github.com/ovishkh/AlgoMaze"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AlgoMaze&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="AlgoMaze"></a>
+  <a href="https://github.com/ovishkh/AndyOS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AndyOS&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="AndyOS"></a>
+  <a href="https://github.com/ovishkh/SalamApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=SalamApp&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="SalamApp"></a>
+  <a href="https://github.com/ovishkh/ChessLM"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=ChessLM&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="ChessLM"></a>
+  <a href="https://github.com/ovishkh/WeatherApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=WeatherApp&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="WeatherApp"></a>
+  <a href="https://github.com/ovishkh/imam"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=imam&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="imam"></a>
+  <a href="https://github.com/ovishkh/AniPlay"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AniPlay&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="AniPlay"></a>
+  <a href="https://github.com/ovishkh/BlockChat"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=BlockChat&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="BlockChat"></a>
+  <a href="https://github.com/ovishkh/anygpt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=anygpt&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="AnyGPT"></a>
+  <a href="https://github.com/ovishkh/TubeScope"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=TubeScope&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="TubeScope"></a>
+  <a href="https://github.com/ovishkh/FONTY"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=FONTY&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="FONTY"></a>
+  <a href="https://github.com/ovishkh/TinyCompiler"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=TinyCompiler&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="TinyCompiler"></a>
+  <a href="https://github.com/ovishkh/AlgoMaze"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AlgoMaze&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="AlgoMaze"></a>
 </p>
 
-<h2 align="center" style="color:#4299E1;"> CSE Courses </h2>
+<h2 align="center" style="color:#9333EA;"> CSE Courses </h2>
 
 <p align="center">
-  <a href="https://github.com/ovishkh/CSE321_Data-Mining-and-Machine-Learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE321_Data-Mining-and-Machine-Learning&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 321 - Data Mining and Machine Learning"></a>
-  <a href="https://github.com/ovishkh/CSE322_Data-Mining-and-Machine-Learning-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE322_Data-Mining-and-Machine-Learning-Lab&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 322 - Data Mining and Machine Learning Lab"></a>
-  <a href="https://github.com/ovishkh/CSE332_Compilar_Design_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE332_Compilar_Design_Lab&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 332 - Compiler Design Lab"></a>
-  <a href="https://github.com/ovishkh/CSE416_Web_Engineering_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE416_Web_Engineering_Lab&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 416 - Web Engineering Lab"></a>
-  <a href="https://github.com/ovishkh/CSE231_Embedded_Systems_IoT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE231_Embedded_Systems_IoT&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 231 - Embedded Systems &amp; IoT"></a>
-  <a href="https://github.com/ovishkh/CSE312_Database-Management-System-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE312_Database-Management-System-Lab&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 312 - Database Management System (SQL)"></a>
-  <a href="https://github.com/ovishkh/CSE315_Introduction-to-Data-Science"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE315_Introduction-to-Data-Science&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 315 - Introduction to Data Science"></a>
-  <a href="https://github.com/ovishkh/CSE316_Artificial-Intelligence-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE316_Artificial-Intelligence-Lab&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 316 - Artificial Intelligence Lab"></a>
-  <a href="https://github.com/ovishkh/CSE222_Object-Oriented-Programming_2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE222_Object-Oriented-Programming_2&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 222 - Object Oriented Programming II"></a>
-  <a href="https://github.com/ovishkh/CSE224_Digital-Electronics-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE224_Digital-Electronics-Lab&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 224 - Digital Electronics Lab"></a>
-  <a href="https://github.com/ovishkh/CSE422_Computer_Graphics_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE422_Computer_Graphics_Lab&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 422 - Computer Graphics Lab"></a>
-  <a href="https://github.com/ovishkh/CSE414_Mobile_Application_Design_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE414_Mobile_Application_Design_Lab&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 414 - Mobile Application Design Lab"></a>
+  <a href="https://github.com/ovishkh/CSE321_Data-Mining-and-Machine-Learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE321_Data-Mining-and-Machine-Learning&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=9333EA&show_icons=true" alt="CSE 321 - Data Mining and Machine Learning"></a>
+  <a href="https://github.com/ovishkh/CSE322_Data-Mining-and-Machine-Learning-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE322_Data-Mining-and-Machine-Learning-Lab&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=9333EA&show_icons=true" alt="CSE 322 - Data Mining and Machine Learning Lab"></a>
+  <a href="https://github.com/ovishkh/CSE332_Compilar_Design_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE332_Compilar_Design_Lab&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=9333EA&show_icons=true" alt="CSE 332 - Compiler Design Lab"></a>
+  <a href="https://github.com/ovishkh/CSE416_Web_Engineering_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE416_Web_Engineering_Lab&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=9333EA&show_icons=true" alt="CSE 416 - Web Engineering Lab"></a>
+  <a href="https://github.com/ovishkh/CSE231_Embedded_Systems_IoT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE231_Embedded_Systems_IoT&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=9333EA&show_icons=true" alt="CSE 231 - Embedded Systems &amp; IoT"></a>
+  <a href="https://github.com/ovishkh/CSE312_Database-Management-System-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE312_Database-Management-System-Lab&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=9333EA&show_icons=true" alt="CSE 312 - Database Management System (SQL)"></a>
+  <a href="https://github.com/ovishkh/CSE315_Introduction-to-Data-Science"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE315_Introduction-to-Data-Science&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=9333EA&show_icons=true" alt="CSE 315 - Introduction to Data Science"></a>
+  <a href="https://github.com/ovishkh/CSE316_Artificial-Intelligence-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE316_Artificial-Intelligence-Lab&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=9333EA&show_icons=true" alt="CSE 316 - Artificial Intelligence Lab"></a>
+  <a href="https://github.com/ovishkh/CSE222_Object-Oriented-Programming_2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE222_Object-Oriented-Programming_2&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=9333EA&show_icons=true" alt="CSE 222 - Object Oriented Programming II"></a>
+  <a href="https://github.com/ovishkh/CSE224_Digital-Electronics-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE224_Digital-Electronics-Lab&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=9333EA&show_icons=true" alt="CSE 224 - Digital Electronics Lab"></a>
+  <a href="https://github.com/ovishkh/CSE422_Computer_Graphics_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE422_Computer_Graphics_Lab&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=9333EA&show_icons=true" alt="CSE 422 - Computer Graphics Lab"></a>
+  <a href="https://github.com/ovishkh/CSE414_Mobile_Application_Design_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE414_Mobile_Application_Design_Lab&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=9333EA&show_icons=true" alt="CSE 414 - Mobile Application Design Lab"></a>
 </p>
 
-<h2 align="center" style="color:#4299E1;"> Docs </h2>
+<h2 align="center" style="color:#9333EA;"> Docs </h2>
 
 <p align="center">
-  <a href="https://github.com/ovishkh/n8n"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=n8n&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="n8n"></a>
-  <a href="https://github.com/ovishkh/Agentic-Design-Patterns"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Agentic-Design-Patterns&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="A Hands-On Guide to Building Intelligent Systems"></a>
-  <a href="https://github.com/ovishkh/CTF"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CTF&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="CTF"></a>
-  <a href="https://github.com/ovishkh/OpenAPI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=OpenAPI&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="OpenAPI"></a>
-  <a href="https://github.com/ovishkh/AI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AI&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="AI"></a>
-  <a href="https://github.com/ovishkh/Prompt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Prompt&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="Prompt"></a>
-  <a href="https://github.com/ovishkh/AOI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AOI&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="AOI"></a>
-  <a href="https://github.com/ovishkh/Git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Git&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="Git"></a>
-  <a href="https://github.com/ovishkh/Github"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Github&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="Github"></a>
-  <a href="https://github.com/ovishkh/YC-Guide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=YC-Guide&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="YC-Guide"></a>
-  <a href="https://github.com/ovishkh/AI-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AI-Learn&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="AI-Learn"></a>
-  <a href="https://github.com/ovishkh/Blockchain-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Blockchain-Learn&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="Blockchain-Learn"></a>
-  <a href="https://github.com/ovishkh/BuilderKit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=BuilderKit&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="BuilderKit"></a>
-  <a href="https://github.com/ovishkh/QML"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=QML&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="QML"></a>
-  <a href="https://github.com/ovishkh/Solidity-Lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Solidity-Lang&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="Solidity-Lang"></a>
-  <a href="https://github.com/ovishkh/nextjs-boilerplate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=nextjs-boilerplate&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="nextjs-boilerplate"></a>
-  <a href="https://github.com/ovishkh/ml-boilerplate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=ml-boilerplate&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="ml-boilerplate"></a>
-  <a href="https://github.com/ovishkh/ml_setup"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=ml_setup&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="ml_setup"></a>
+  <a href="https://github.com/ovishkh/n8n"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=n8n&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="n8n"></a>
+  <a href="https://github.com/ovishkh/Agentic-Design-Patterns"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Agentic-Design-Patterns&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="A Hands-On Guide to Building Intelligent Systems"></a>
+  <a href="https://github.com/ovishkh/CTF"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CTF&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="CTF"></a>
+  <a href="https://github.com/ovishkh/OpenAPI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=OpenAPI&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="OpenAPI"></a>
+  <a href="https://github.com/ovishkh/AI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AI&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="AI"></a>
+  <a href="https://github.com/ovishkh/Prompt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Prompt&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="Prompt"></a>
+  <a href="https://github.com/ovishkh/AOI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AOI&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="AOI"></a>
+  <a href="https://github.com/ovishkh/Git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Git&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="Git"></a>
+  <a href="https://github.com/ovishkh/Github"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Github&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="Github"></a>
+  <a href="https://github.com/ovishkh/YC-Guide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=YC-Guide&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="YC-Guide"></a>
+  <a href="https://github.com/ovishkh/AI-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AI-Learn&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="AI-Learn"></a>
+  <a href="https://github.com/ovishkh/Blockchain-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Blockchain-Learn&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="Blockchain-Learn"></a>
+  <a href="https://github.com/ovishkh/BuilderKit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=BuilderKit&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="BuilderKit"></a>
+  <a href="https://github.com/ovishkh/QML"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=QML&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="QML"></a>
+  <a href="https://github.com/ovishkh/Solidity-Lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Solidity-Lang&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="Solidity-Lang"></a>
+  <a href="https://github.com/ovishkh/nextjs-boilerplate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=nextjs-boilerplate&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="nextjs-boilerplate"></a>
+  <a href="https://github.com/ovishkh/ml-boilerplate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=ml-boilerplate&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="ml-boilerplate"></a>
+  <a href="https://github.com/ovishkh/ml_setup"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=ml_setup&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="ml_setup"></a>
 </p>
 
-<h2 align="center" style="color:#4299E1;"> Forked </h2>
+<h2 align="center" style="color:#9333EA;"> Forked </h2>
 
 <p align="center">
-  <a href="https://github.com/ovishkh/x-algorithm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=x-algorithm&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="x-algorithm"></a>
-  <a href="https://github.com/ovishkh/llm-council"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=llm-council&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="llm-council"></a>
-  <a href="https://github.com/ovishkh/build-your-own-x"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=build-your-own-x&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="build-your-own-x"></a>
+  <a href="https://github.com/ovishkh/x-algorithm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=x-algorithm&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="x-algorithm"></a>
+  <a href="https://github.com/ovishkh/llm-council"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=llm-council&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="llm-council"></a>
+  <a href="https://github.com/ovishkh/build-your-own-x"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=build-your-own-x&theme=react&bg_color=1F222E&title_color=9333EA&hide_border=true&icon_color=F8D866&show_icons=true" alt="build-your-own-x"></a>
 </p>
 
 <br>
@@ -188,7 +188,7 @@ Let's connect and collaborate! 🚀
 | **Frameworks & Libraries** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring--Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)                                                                                                                                                           |
 | **ML / DL**                | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | **AI**                     | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-755139?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Lovable](https://img.shields.io/badge/Lovable-FF4F00?style=for-the-badge&logoColor=white) ![v0](https://img.shields.io/badge/v0-black?style=for-the-badge&logo=vercel&logoColor=white) ![a0](https://img.shields.io/badge/a0-000000?style=for-the-badge&logoColor=white) ![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge&logoColor=white) ![KIMI](https://img.shields.io/badge/KIMI-2F2F2F?style=for-the-badge&logo=kimi&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-007BFF?style=for-the-badge&logo=deepseek&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-6236FF?style=for-the-badge&logo=qwen&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white) |
-| **IDE**                    | ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white) ![Trae](https://img.shields.io/badge/Trae-000000?style=for-the-badge&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-5633a6?style=for-the-badge&logo=cursor&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-1d1d1d?style=for-the-badge&logo=codeium&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-black?style=for-the-badge&logo=zed&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-4299E1?style=for-the-badge&logo=antigravity&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                           |
+| **IDE**                    | ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white) ![Trae](https://img.shields.io/badge/Trae-000000?style=for-the-badge&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-5633a6?style=for-the-badge&logo=cursor&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-1d1d1d?style=for-the-badge&logo=codeium&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-black?style=for-the-badge&logo=zed&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-9333EA?style=for-the-badge&logo=antigravity&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                           |
 | **Tools**                  | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 </div>
@@ -235,7 +235,7 @@ Let's connect and collaborate! 🚀
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4299E1&height=100&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=100&section=footer" alt="Footer Banner" />
 </p>
 
 
