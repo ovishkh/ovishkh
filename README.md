@@ -2,12 +2,12 @@
 
 <!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4299E1&height=200&section=header&text=Ovi%20Shekh&fontSize=80&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4299E1&height=200&section=header&text=Hey%20there,%20I'm%20Ovi&fontSize=70&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
 </p>
 
-<h1> Hey there, I'm Ovi </h1>
-
-<h3>Exploring the Future of Technology</h3>
+<p align="center">
+  <strong>Exploring the Future of Technology</strong>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -24,6 +24,9 @@ Let's connect and collaborate! 🚀
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ovishkh&color=4299E1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/ovishkh?tab=followers">
+    <img src="https://img.shields.io/github/followers/ovishkh?label=FOLLOWERS&style=flat-square&color=4299E1" alt="Followers" />
+  </a>
 </p>
 
 <div align="center">
@@ -235,7 +238,5 @@ Let's connect and collaborate! 🚀
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4299E1&height=100&section=footer" alt="Footer Banner" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-Mar%202026-4299E1?style=flat-square" alt="Last Updated" />
-</p>
+
 
