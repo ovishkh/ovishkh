@@ -166,12 +166,25 @@ Let's connect and collaborate! 🚀
         </a>
       </td>
     </tr>
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://github.com/stars/ovishkh/lists/ai" style="text-decoration:none;">
+          <img alt="AI Collection" src="https://img.shields.io/badge/🤖_AI-4299E1?style=for-the-badge&logoColor=white" />
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/stars/ovishkh/lists/ml" style="text-decoration:none;">
+          <img alt="ML Collection" src="https://img.shields.io/badge/🧠_ML-4299E1?style=for-the-badge&logoColor=white" />
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/stars/ovishkh/lists/language" style="text-decoration:none;">
+          <img alt="Language Collection" src="https://img.shields.io/badge/💬_Language-4299E1?style=for-the-badge&logoColor=white" />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
-
-<p align="center">
-  <em>Explore curated collections of resources, tools, and inspiration</em>
-</p>
 
 <h2 align="center" style="color:#C084FC;"> Forked </h2>
 
