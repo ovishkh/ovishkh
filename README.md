@@ -68,7 +68,7 @@ Let's connect and collaborate! 🚀
 
 </div>
 
-<h2 align="center" style="color:#C084FC;"> Products </h2>
+<h2 align="center" style="color:#C084FC;"> Popular Projects ⭐ </h2>
 
 <table border="0" width="100%">
   <tr>
@@ -144,28 +144,23 @@ Let's connect and collaborate! 🚀
   <a href="https://github.com/ovishkh/CSE414_Mobile_Application_Design_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE414_Mobile_Application_Design_Lab&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=4299E1&show_icons=true" alt="CSE 414 - Mobile Application Design Lab"></a>
 </p>
 
-<h2 align="center" style="color:#C084FC;"> Docs </h2>
+<h2 align="center" style="color:#C084FC;"> Curated Collections 📚 </h2>
 
-<p align="center">
-  <a href="https://github.com/ovishkh/n8n"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=n8n&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="n8n"></a>
-  <a href="https://github.com/ovishkh/Agentic-Design-Patterns"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Agentic-Design-Patterns&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="A Hands-On Guide to Building Intelligent Systems"></a>
-  <a href="https://github.com/ovishkh/CTF"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CTF&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="CTF"></a>
-  <a href="https://github.com/ovishkh/OpenAPI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=OpenAPI&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="OpenAPI"></a>
-  <a href="https://github.com/ovishkh/AI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AI&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="AI"></a>
-  <a href="https://github.com/ovishkh/Prompt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Prompt&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="Prompt"></a>
-  <a href="https://github.com/ovishkh/AOI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AOI&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="AOI"></a>
-  <a href="https://github.com/ovishkh/Git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Git&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="Git"></a>
-  <a href="https://github.com/ovishkh/Github"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Github&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="Github"></a>
-  <a href="https://github.com/ovishkh/YC-Guide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=YC-Guide&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="YC-Guide"></a>
-  <a href="https://github.com/ovishkh/AI-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AI-Learn&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="AI-Learn"></a>
-  <a href="https://github.com/ovishkh/Blockchain-Learn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Blockchain-Learn&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="Blockchain-Learn"></a>
-  <a href="https://github.com/ovishkh/BuilderKit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=BuilderKit&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="BuilderKit"></a>
-  <a href="https://github.com/ovishkh/QML"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=QML&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="QML"></a>
-  <a href="https://github.com/ovishkh/Solidity-Lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Solidity-Lang&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="Solidity-Lang"></a>
-  <a href="https://github.com/ovishkh/nextjs-boilerplate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=nextjs-boilerplate&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="nextjs-boilerplate"></a>
-  <a href="https://github.com/ovishkh/ml-boilerplate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=ml-boilerplate&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="ml-boilerplate"></a>
-  <a href="https://github.com/ovishkh/ml_setup"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=ml_setup&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="ml_setup"></a>
-</p>
+<div align="center">
+  <p>
+    <a href="https://github.com/stars/ovishkh/lists/docs" style="font-size:18px; margin:10px; text-decoration:none;">
+      📖 <strong>Docs</strong>
+    </a>
+    •
+    <a href="https://github.com/stars/ovishkh/lists/open" style="font-size:18px; margin:10px; text-decoration:none;">
+      🔓 <strong>Open</strong>
+    </a>
+    •
+    <a href="https://github.com/stars/ovishkh/lists/startup" style="font-size:18px; margin:10px; text-decoration:none;">
+      🚀 <strong>Startup</strong>
+    </a>
+  </p>
+</div>
 
 <h2 align="center" style="color:#C084FC;"> Forked </h2>
 
