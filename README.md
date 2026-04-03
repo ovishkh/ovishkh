@@ -18,6 +18,7 @@
 ✨ Passionate about building **innovative solutions**, exploring **cutting-edge tech**, and turning **ideas into reality**.  
 <br>
 Let's connect and collaborate! 🚀
+
 </div>
 
 <br>
@@ -147,20 +148,30 @@ Let's connect and collaborate! 🚀
 <h2 align="center" style="color:#C084FC;"> Curated Collections 📚 </h2>
 
 <div align="center">
-  <p>
-    <a href="https://github.com/stars/ovishkh/lists/docs" style="font-size:18px; margin:10px; text-decoration:none;">
-      📖 <strong>Docs</strong>
-    </a>
-    •
-    <a href="https://github.com/stars/ovishkh/lists/open" style="font-size:18px; margin:10px; text-decoration:none;">
-      🔓 <strong>Open</strong>
-    </a>
-    •
-    <a href="https://github.com/stars/ovishkh/lists/startup" style="font-size:18px; margin:10px; text-decoration:none;">
-      🚀 <strong>Startup</strong>
-    </a>
-  </p>
+  <table border="0" width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://github.com/stars/ovishkh/lists/docs" style="text-decoration:none;">
+          <img alt="Docs Collection" src="https://img.shields.io/badge/📖_Docs-4299E1?style=for-the-badge&logoColor=white" />
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/stars/ovishkh/lists/open" style="text-decoration:none;">
+          <img alt="Open Collection" src="https://img.shields.io/badge/🔓_Open-4299E1?style=for-the-badge&logoColor=white" />
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/stars/ovishkh/lists/startup" style="text-decoration:none;">
+          <img alt="Startup Collection" src="https://img.shields.io/badge/🚀_Startup-4299E1?style=for-the-badge&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<p align="center">
+  <em>Explore curated collections of resources, tools, and inspiration</em>
+</p>
 
 <h2 align="center" style="color:#C084FC;"> Forked </h2>
 
@@ -231,6 +242,3 @@ Let's connect and collaborate! 🚀
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4299E1&height=100&section=footer" alt="Footer Banner" />
 </p>
-
-
-
