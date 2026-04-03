@@ -228,7 +228,6 @@ Let's connect and collaborate! 🚀
 </div>
 
 <br>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4299E1&height=100&section=footer" alt="Footer Banner" />
 </p>
