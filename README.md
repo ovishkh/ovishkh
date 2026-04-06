@@ -186,13 +186,21 @@ Let's connect and collaborate! 🚀
   </table>
 </div>
 
-<h2 align="center" style="color:#C084FC;"> Forked </h2>
-
-<p align="center">
-  <a href="https://github.com/ovishkh/x-algorithm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=x-algorithm&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="x-algorithm"></a>
-  <a href="https://github.com/ovishkh/llm-council"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=llm-council&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="llm-council"></a>
-  <a href="https://github.com/ovishkh/build-your-own-x"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=build-your-own-x&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="build-your-own-x"></a>
-</p>
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://github.com/ovishkh/x-algorithm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=x-algorithm&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="x-algorithm"></a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/ovishkh/llm-council"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=llm-council&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="llm-council"></a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/ovishkh/build-your-own-x"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=build-your-own-x&theme=react&bg_color=1F222E&title_color=4299E1&hide_border=true&icon_color=F8D866&show_icons=true" alt="build-your-own-x"></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
