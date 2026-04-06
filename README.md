@@ -69,41 +69,41 @@ Let's connect and collaborate! 🚀
 
 </div>
 
-<h2 align="center" style="color:#C084FC;"> Popular Projects ⭐ </h2>
+<h2 align="center" style="color:#00d084;"> Popular Projects ⭐ </h2>
 
 <table border="0" width="100%">
   <tr>
-    <td width="25%" align="center" style="color:#C084FC;"><strong>Project</strong></td>
-    <td width="40%" align="center" style="color:#C084FC;"><strong>What it does</strong></td>
-    <td width="35%" align="center" style="color:#C084FC;"><strong>Stack & Deployment</strong></td>
+    <td width="25%" align="center" style="color:#00d084;"><strong>Project</strong></td>
+    <td width="40%" align="center" style="color:#00d084;"><strong>What it does</strong></td>
+    <td width="35%" align="center" style="color:#00d084;"><strong>Stack & Deployment</strong></td>
   </tr>
   <tr>
-    <td align="left">🎯 <a href="https://cp.ovishekh.com/" style="color:#C084FC;">Career Pro</a></td>
+    <td align="left">🎯 <a href="https://cp.ovishekh.com/" style="color:#00d084;">Career Pro</a></td>
     <td align="left">AI-powered career platform for professional development, resume optimization, and job matching with personalized insights</td>
     <td align="left">Next.js, Node.js, PostgreSQL, Redis, OpenAI API • <strong>Vercel</strong></td>
   </tr>
   <tr>
-    <td align="left">🧠 <a href="https://wisdomic.app/" style="color:#C084FC;">Wisdomic AI</a> <span style="background-color:#C084FC; color:white; padding:2px 6px; border-radius:3px; font-size:6px; font-weight:bold;">[Acquired'25]</span></td>
+    <td align="left">🧠 <a href="https://wisdomic.app/" style="color:#00d084;">Wisdomic AI</a> <span style="background-color:#00d084; color:white; padding:2px 6px; border-radius:3px; font-size:6px; font-weight:bold;">[Acquired'25]</span></td>
     <td align="left">Research agent for literature review, gap analysis, LaTeX editor and intelligent academic paper analysis powered by AI</td>
     <td align="left">React, Node.js, FastAPI, MongoDB, Google Cloud, Fine-tuned DeepSeek • <strong>Google Cloud Platform</strong></td>
   </tr>
   <tr>
-    <td align="left">✨ <a href="https://tawheed.ovishekh.com/" style="color:#C084FC;">Tawheed AI</a></td>
+    <td align="left">✨ <a href="https://tawheed.ovishekh.com/" style="color:#00d084;">Tawheed AI</a></td>
     <td align="left">Islamic authenticity checking with AI, verifies social media and online content against Quran and Hadith with verification accuracy</td>
     <td align="left">Next.js, Python, FastAPI, PostgreSQL, Claude API • <strong>Cloudflare, Vercel, Digital Ocean</strong></td>
   </tr>
   <tr>
-    <td align="left">💰 <a href="https://cryptell.io/" style="color:#C084FC;">Cryptell.io</a></td>
+    <td align="left">💰 <a href="https://cryptell.io/" style="color:#00d084;">Cryptell.io</a></td>
     <td align="left">Fully functional decentralized crypto exchange platform with real-time trading, portfolio management, and secure wallet integration</td>
     <td align="left">Next.js, Node.js, Web3.js • <strong>Amazon Web Services</strong></td>
   </tr>
   <tr>
-    <td align="left">📈 <a href="https://www.ovishekh.com/work/super-trader-ai" style="color:#C084FC;">Super Trader</a></td>
+    <td align="left">📈 <a href="https://www.ovishekh.com/work/super-trader-ai" style="color:#00d084;">Super Trader</a></td>
     <td align="left">AI-powered crypto arbitrage platform that identifies and executes profitable trading opportunities across multiple exchanges in real-time</td>
     <td align="left">Next.js, Node.js, WebSocket APIs • <strong>Hostinger VPS</strong></td>
   </tr>
   <tr>
-    <td align="left">📱 <a href="https://www.ovishekh.com/work/ilynk-app" style="color:#C084FC;">Ilynk App</a></td>
+    <td align="left">📱 <a href="https://www.ovishekh.com/work/ilynk-app" style="color:#00d084;">Ilynk App</a></td>
     <td align="left">Micro gig marketplace connecting freelancers and clients for short-term projects, tasks, and services with secure payment and rating system</td>
     <td align="left">Flutter, Dart, Apple Dev Kit • <strong>Play Store, App Store</strong></td>
   </tr>
@@ -111,7 +111,7 @@ Let's connect and collaborate! 🚀
 
 <br>
 
-<h2 align="center" style="color:#C084FC;"> Open Source Works </h2>
+<h2 align="center" style="color:#00d084;"> Open Source Works </h2>
 
 <p align="center">
   <a href="https://github.com/ovishkh/AndyOS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AndyOS&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AndyOS"></a>
@@ -128,7 +128,7 @@ Let's connect and collaborate! 🚀
   <a href="https://github.com/ovishkh/AlgoMaze"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AlgoMaze&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AlgoMaze"></a>
 </p>
 
-<h2 align="center" style="color:#C084FC;"> CSE Courses </h2>
+<h2 align="center" style="color:#00d084;"> CSE Courses </h2>
 
 <p align="center">
   <a href="https://github.com/ovishkh/CSE321_Data-Mining-and-Machine-Learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE321_Data-Mining-and-Machine-Learning&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 321 - Data Mining and Machine Learning"></a>
@@ -145,7 +145,7 @@ Let's connect and collaborate! 🚀
   <a href="https://github.com/ovishkh/CSE414_Mobile_Application_Design_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE414_Mobile_Application_Design_Lab&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 414 - Mobile Application Design Lab"></a>
 </p>
 
-<h2 align="center" style="color:#C084FC;"> Curated Collections 📚 </h2>
+<h2 align="center" style="color:#00d084;"> Curated Collections 📚 </h2>
 
 <div align="center">
   <table border="0" width="100%">
