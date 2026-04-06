@@ -147,44 +147,17 @@ Let's connect and collaborate! 🚀
 
 <h2 align="center" style="color:#00d084;"> Curated Collections 📚 </h2>
 
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="33%" align="center">
-        <a href="https://github.com/stars/ovishkh/lists/docs" style="text-decoration:none;">
-          <img alt="Docs Collection" src="https://img.shields.io/badge/📖_Docs-00d084?style=for-the-badge&logoColor=white" />
-        </a>
-      </td>
-      <td width="33%" align="center">
-        <a href="https://github.com/stars/ovishkh/lists/open" style="text-decoration:none;">
-          <img alt="Open Collection" src="https://img.shields.io/badge/🔓_Open-00d084?style=for-the-badge&logoColor=white" />
-        </a>
-      </td>
-      <td width="33%" align="center">
-        <a href="https://github.com/stars/ovishkh/lists/startup" style="text-decoration:none;">
-          <img alt="Startup Collection" src="https://img.shields.io/badge/🚀_Startup-00d084?style=for-the-badge&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center">
-        <a href="https://github.com/stars/ovishkh/lists/ai" style="text-decoration:none;">
-          <img alt="AI Collection" src="https://img.shields.io/badge/🤖_AI-00d084?style=for-the-badge&logoColor=white" />
-        </a>
-      </td>
-      <td width="33%" align="center">
-        <a href="https://github.com/stars/ovishkh/lists/ml" style="text-decoration:none;">
-          <img alt="ML Collection" src="https://img.shields.io/badge/🧠_ML-00d084?style=for-the-badge&logoColor=white" />
-        </a>
-      </td>
-      <td width="33%" align="center">
-        <a href="https://github.com/stars/ovishkh/lists/language" style="text-decoration:none;">
-          <img alt="Language Collection" src="https://img.shields.io/badge/💬_Language-00d084?style=for-the-badge&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/stars/ovishkh/lists/docs"><img alt="Docs Collection" src="https://img.shields.io/badge/📖_Docs-00d084?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/stars/ovishkh/lists/open"><img alt="Open Collection" src="https://img.shields.io/badge/🔓_Open-00d084?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/stars/ovishkh/lists/startup"><img alt="Startup Collection" src="https://img.shields.io/badge/🚀_Startup-00d084?style=for-the-badge&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/stars/ovishkh/lists/ai"><img alt="AI Collection" src="https://img.shields.io/badge/🤖_AI-00d084?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/stars/ovishkh/lists/ml"><img alt="ML Collection" src="https://img.shields.io/badge/🧠_ML-00d084?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/stars/ovishkh/lists/language"><img alt="Language Collection" src="https://img.shields.io/badge/💬_Language-00d084?style=for-the-badge&logoColor=white" /></a>
+</p>
 
 <br>
 
