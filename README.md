@@ -50,22 +50,10 @@ Let's connect and collaborate! 🚀
 
 <div align="center">
 
-## GitHub Analytics
+## 📊 GitHub Stats
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&layout=compact&theme=github_dark_dimmed&hide_border=false&title_color=4299E1&text_color=4299E1&bg_color=0d1117&icon_color=4299E1&show_icons=true&border_color=30363D" alt="Top Languages" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=ovishkh&theme=dark&stroke=4299E1&fire=4299E1&ring=4299E1&currStreakNum=4299E1&currStreakLabel=4299E1&sideNums=4299E1&sideLabels=4299E1&dates=4299E1&hide_border=false" alt="GitHub Streak Stats" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ovishkh&theme=github-dark&hide_border=false&bg_color=0d1117&color=4299E1&line=4299E1&point=4299E1" alt="Contribution Graph" width="100%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ovishkh&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ovishkh&theme=github-dark" alt="GitHub Streak" width="48%" />
 
 </div>
 
