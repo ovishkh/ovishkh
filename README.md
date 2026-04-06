@@ -55,6 +55,10 @@ Let's connect and collaborate! 🚀
 <img src="https://github-readme-stats.vercel.app/api?username=ovishkh&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ovishkh&theme=github-dark" alt="GitHub Streak" width="48%" />
 
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&layout=compact&theme=github_dark&title_color=00d084&text_color=00d084&bg_color=0d1117&border_color=00d084" alt="Top Languages" width="48%" />
+
 </div>
 
 <h2 align="center" style="color:#C084FC;"> Popular Projects ⭐ </h2>
