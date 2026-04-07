@@ -1,3 +1,7 @@
+<style>
+a { color: #00d084 !important; }
+</style>
+
 <div align="center">
 
 <!-- Header Section -->
