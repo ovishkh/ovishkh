@@ -43,6 +43,9 @@ Let's connect and collaborate! 🚀
   <a href="https://ovishekh.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=00d084&logoColor=white&style=for-the-badge" height="35" alt="Website" />
   </a>
+  <a href="https://www.ovishekh.com/call" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="WhatsApp" />
+  </a>
 </div>
 
 <br>
@@ -216,6 +219,9 @@ Let's connect and collaborate! 🚀
   </a>
   <a href="https://ovishekh.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=00d084&logoColor=white&style=for-the-badge" height="35" alt="Website" />
+  </a>
+  <a href="https://www.ovishekh.com/call" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="WhatsApp" />
   </a>
 </div>
 
