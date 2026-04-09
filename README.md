@@ -58,7 +58,7 @@ Let's connect and collaborate! 🚀
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&layout=compact&theme=github_dark&title_color=00d084&text_color=00d084&bg_color=0d1117&border_color=00d084" alt="Top Languages" width="100%" />
+      <img src="https://camo.githubusercontent.com/dc460a0ae47796423ff8f49bcb0d53b72845b985cb24eac11017bf65b64fbeee/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6f766973686b68266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b267469746c655f636f6c6f723d30306430383426746578745f636f6c6f723d3030643038342662675f636f6c6f723d30643131313726626f726465725f636f6c6f723d303064303830" alt="Top Languages" width="100%" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=ovishkh&theme=github-dark" alt="GitHub Streak" width="100%" />
@@ -187,7 +187,7 @@ Let's connect and collaborate! 🚀
 ## 🏆 **Achievements**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ovishkh&theme=dark&column=3&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://camo.githubusercontent.com/31f505362e506c331171d347365d881a11dec9354908934299fab0c043dc63f7/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6f766973686b68267468656d653d6461726b26636f6c756d6e3d33266d617267696e2d773d3135266e6f2d6672616d653d74727565" alt="GitHub Trophies" />
 </p>
 
 </div>
