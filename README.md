@@ -205,14 +205,17 @@ Let's connect and collaborate! 🚀
   <h3>Let's Innovate Together 🚀</h3>
   <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
   
-  <a href="mailto:ovi@ovishekh.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.youtube.com/@ovishkh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
   </a>
-  <a href="https://linkedin.com/in/ovishkh">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://twitter.com/ovishkh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="X" />
   </a>
-  <a href="https://twitter.com/ovishkh">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.linkedin.com/in/ovishkh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://ovishekh.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=00d084&logoColor=white&style=for-the-badge" height="35" alt="Website" />
   </a>
 </div>
 
