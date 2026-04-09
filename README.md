@@ -38,7 +38,7 @@ Let's connect and collaborate! 🚀
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/ovishkh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter" />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="X" />
   </a>
   <a href="https://ovishekh.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=00d084&logoColor=white&style=for-the-badge" height="35" alt="Website" />
@@ -184,7 +184,7 @@ Let's connect and collaborate! 🚀
 ## 🏆 **Achievements**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ovishkh&theme=radical&column=8&margin-w=4&title=Stars,Followers,Commits,Repositories,MultiLanguage,Organizations,Issues,Experience" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ovishkh&theme=dark&column=3&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 </div>
