@@ -187,7 +187,7 @@ Let's connect and collaborate! 🚀
 ## 🏆 **Achievements**
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/31f505362e506c331171d347365d881a11dec9354908934299fab0c043dc63f7/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6f766973686b68267468656d653d6461726b26636f6c756d6e3d33266d617267696e2d773d3135266e6f2d6672616d653d74727565" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ovishkh&theme=dark&column=3&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 </div>
