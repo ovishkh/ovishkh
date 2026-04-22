@@ -150,17 +150,56 @@ Let's connect and collaborate! 🚀
 
 <h2 align="center" style="color:#00d084;"> Curated Collections 📚 </h2>
 
-<p align="center">
-  <a href="https://github.com/stars/ovishkh/lists/docs"><img alt="Docs Collection" src="https://img.shields.io/badge/📖_Docs-00d084?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://github.com/stars/ovishkh/lists/open"><img alt="Open Collection" src="https://img.shields.io/badge/🔓_Open-00d084?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://github.com/stars/ovishkh/lists/startup"><img alt="Startup Collection" src="https://img.shields.io/badge/🚀_Startup-00d084?style=for-the-badge&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/stars/ovishkh/lists/ai"><img alt="AI Collection" src="https://img.shields.io/badge/🤖_AI-00d084?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://github.com/stars/ovishkh/lists/ml"><img alt="ML Collection" src="https://img.shields.io/badge/🧠_ML-00d084?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://github.com/stars/ovishkh/lists/language"><img alt="Language Collection" src="https://img.shields.io/badge/💬_Language-00d084?style=for-the-badge&logoColor=white" /></a>
-</p>
+<div align="center">
+<table border="0" width="100%" style="border-spacing: 15px; border-collapse: separate;">
+  <tr style="height: 100px;">
+    <td align="center" style="background: linear-gradient(135deg, #00d084 0%, #00a366 100%); border-radius: 10px; padding: 20px; box-shadow: 0 4px 12px rgba(0, 208, 132, 0.3);">
+      <a href="https://github.com/stars/ovishkh/lists/docs" style="text-decoration: none; color: white;">
+        <div style="font-size: 32px; margin-bottom: 8px;">📖</div>
+        <strong style="font-size: 16px;">Docs</strong><br>
+        <small style="opacity: 0.9;">Essential Documentation</small>
+      </a>
+    </td>
+    <td align="center" style="background: linear-gradient(135deg, #00d084 0%, #00a366 100%); border-radius: 10px; padding: 20px; box-shadow: 0 4px 12px rgba(0, 208, 132, 0.3);">
+      <a href="https://github.com/stars/ovishkh/lists/open" style="text-decoration: none; color: white;">
+        <div style="font-size: 32px; margin-bottom: 8px;">🔓</div>
+        <strong style="font-size: 16px;">Open Source</strong><br>
+        <small style="opacity: 0.9;">Free & Open Projects</small>
+      </a>
+    </td>
+    <td align="center" style="background: linear-gradient(135deg, #00d084 0%, #00a366 100%); border-radius: 10px; padding: 20px; box-shadow: 0 4px 12px rgba(0, 208, 132, 0.3);">
+      <a href="https://github.com/stars/ovishkh/lists/startup" style="text-decoration: none; color: white;">
+        <div style="font-size: 32px; margin-bottom: 8px;">🚀</div>
+        <strong style="font-size: 16px;">Startups</strong><br>
+        <small style="opacity: 0.9;">Innovation & Growth</small>
+      </a>
+    </td>
+  </tr>
+  <tr style="height: 100px;">
+    <td align="center" style="background: linear-gradient(135deg, #00d084 0%, #00a366 100%); border-radius: 10px; padding: 20px; box-shadow: 0 4px 12px rgba(0, 208, 132, 0.3);">
+      <a href="https://github.com/stars/ovishkh/lists/ai" style="text-decoration: none; color: white;">
+        <div style="font-size: 32px; margin-bottom: 8px;">🤖</div>
+        <strong style="font-size: 16px;">AI</strong><br>
+        <small style="opacity: 0.9;">Artificial Intelligence</small>
+      </a>
+    </td>
+    <td align="center" style="background: linear-gradient(135deg, #00d084 0%, #00a366 100%); border-radius: 10px; padding: 20px; box-shadow: 0 4px 12px rgba(0, 208, 132, 0.3);">
+      <a href="https://github.com/stars/ovishkh/lists/ml" style="text-decoration: none; color: white;">
+        <div style="font-size: 32px; margin-bottom: 8px;">🧠</div>
+        <strong style="font-size: 16px;">Machine Learning</strong><br>
+        <small style="opacity: 0.9;">ML Frameworks & Tools</small>
+      </a>
+    </td>
+    <td align="center" style="background: linear-gradient(135deg, #00d084 0%, #00a366 100%); border-radius: 10px; padding: 20px; box-shadow: 0 4px 12px rgba(0, 208, 132, 0.3);">
+      <a href="https://github.com/stars/ovishkh/lists/language" style="text-decoration: none; color: white;">
+        <div style="font-size: 32px; margin-bottom: 8px;">💬</div>
+        <strong style="font-size: 16px;">Languages</strong><br>
+        <small style="opacity: 0.9;">Programming Languages</small>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
 <br>
 
