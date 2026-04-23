@@ -226,7 +226,7 @@ Let's connect and collaborate! 🚀
 ## 🏆 **Achievements**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ovishkh&theme=github_dark&column=3&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ovishkh&theme=onedark&column=3&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 </div>
