@@ -58,7 +58,7 @@ Let's connect and collaborate! 🚀
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://camo.githubusercontent.com/dc460a0ae47796423ff8f49bcb0d53b72845b985cb24eac11017bf65b64fbeee/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6f766973686b68266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b267469746c655f636f6c6f723d30306430383426746578745f636f6c6f723d3030643038342662675f636f6c6f723d30643131313726626f726465725f636f6c6f723d303064303830" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&layout=compact&theme=github_dark&title_color=00d084&text_color=00d084&bg_color=0d1117&border_color=00d080&hide=swig" alt="Top Languages" width="100%" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=ovishkh&theme=github-dark" alt="GitHub Streak" width="100%" />
