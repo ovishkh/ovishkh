@@ -257,6 +257,7 @@ Programming Languages
 - 🔧 **Full Stack Expertise**: MERN stack mastery from database architecture to production deployment & optimization
 - ⚡ **Rapid Prototyping**: Proven ability to validate ideas quickly, iterate based on feedback, and scale operations
 - 📚 **Educator & Communicator**: Teaching AI, entrepreneurship, and technical concepts to millions of followers
+  - 🦊 [Mozilla Collaborator](https://www.mozilla.org/) | 📡 [IEEE DIU Student Branch](https://github.com/IEEE-DIU-SB) | 🎓 [DIU Students Projects](https://github.com/DIU-Students-Projects)
 - 🎯 **Problem Solver**: Strong analytical skills to tackle complex technical challenges and build meaningful solutions
 
 </div>
