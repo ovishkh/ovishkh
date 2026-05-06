@@ -265,6 +265,18 @@ Programming Languages
 
 <div align="center">
 
+## 🤝 **Collaborations & Affiliations**
+
+- 🦊 [**Mozilla Collaborator**](https://www.mozilla.org/) - Contributing to open-source initiatives and web technologies
+- 📡 [**IEEE DIU Student Branch**](https://github.com/IEEE-DIU-SB) - Leading technical initiatives and student engagement
+- 🎓 [**DIU Students Projects**](https://github.com/DIU-Students-Projects) - Fostering innovation and collaborative development
+
+</div>
+
+<br>
+
+<div align="center">
+
 ## 🏆 **Achievements**
 
 <p align="center">
