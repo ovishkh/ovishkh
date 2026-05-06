@@ -114,7 +114,7 @@ Let's connect and collaborate! 🚀
 
 <br>
 
-<h2 align="center" style="color:#00d084;"> Open Source Works </h2>
+<h2 align="center" style="color:#00d084;"> Open Source Works 💻 </h2>
 
 <p align="center">
   <a href="https://github.com/ovishkh/AndyOS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AndyOS&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AndyOS"></a>
@@ -134,7 +134,7 @@ Let's connect and collaborate! 🚀
   <a href="https://github.com/ovishkh/OpenGLS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=OpenGLS&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="OpenGLS"></a>
 </p>
 
-<h2 align="center" style="color:#00d084;"> CSE Courses </h2>
+<h2 align="center" style="color:#00d084;"> CSE Courses 🎓 </h2>
 
 <p align="center">
   <a href="https://github.com/ovishkh/CSE321_Data-Mining-and-Machine-Learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE321_Data-Mining-and-Machine-Learning&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 321 - Data Mining and Machine Learning"></a>
@@ -246,7 +246,7 @@ Programming Languages
 
 <br>
 
-<div align="left">
+<div align="center">
 
 ## 💼 **What I Bring to the Table**
 
