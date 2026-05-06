@@ -118,25 +118,15 @@ Let's connect and collaborate! 🚀
 
 <h2 align="center" style="color:#00d084;"> 💼 **What I Bring to the Table** </h2>
 
-- 🚀 **Serial AI Founder**: 2 successful exits (GetGroceryBD 2023, Wisdomic AI 2025), and co-founded Arklab AI with proven track record in building scalable startups
-- 🏆 **Award Winner**: National AI Olympiad 2025 winner showcasing innovation & technical excellence
+- 🚀 **Serial AI Founder**: 2 successful exits (GetGroceryBD 2023, Wisdomic AI 2025), and co-founded Arklab AI with proven track record in building scalable products and startups
+- 🏆 **Award Winner**: National AI Olympiad 2025 winner showcasing innovation & technical excellence |
+- 🎓 **Education**: Graduated from [Daffodil International University](https://www.daffodilvarsity.edu.bd/) - B.Sc in Computer Science & Engineering
 - 🤖 **AI Product Engineering**: Expert in building AI-powered solutions, rapid MVP development, and product-market fit
 - 💡 **Technical Leadership**: Architect of scalable systems, mentoring teams, and providing strategic technical direction
-- 🔧 **Full Stack Expertise**: MERN stack mastery from database architecture to production deployment & optimization
 - ⚡ **Rapid Prototyping**: Proven ability to validate ideas quickly, iterate based on feedback, and scale operations
 - 📚 **Educator & Communicator**: Teaching AI, entrepreneurship, and technical concepts to millions of followers
 - 🤝 **Collaborations & Affiliations**: Have collaborated with 🦊 [Mozilla](https://www.mozilla.org/), 📡 [IEEE DIU Student Branch](https://github.com/IEEE-DIU-SB), and 🎓 [DIU Students Projects](https://github.com/DIU-Students-Projects)
 - 🎯 **Problem Solver**: Strong analytical skills to tackle complex technical challenges and build meaningful solutions
-
-</div>
-
-<br>
-
-<div align="left">
-
-<h2 align="center" style="color:#00d084;"> 🎓 **Education** </h2>
-
-- **Daffodil International University** - Bachelor's degree in Computer Science and Engineering
 
 </div>
 
