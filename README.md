@@ -246,7 +246,7 @@ Programming Languages
 
 <br>
 
-<div align="center">
+<div align="left">
 
 ## 💼 **What I Bring to the Table**
 
@@ -259,13 +259,7 @@ Programming Languages
 - 📚 **Educator & Communicator**: Teaching AI, entrepreneurship, and technical concepts to millions of followers
 - 🎯 **Problem Solver**: Strong analytical skills to tackle complex technical challenges and build meaningful solutions
 
-</div>
-
-<br>
-
-<div align="center">
-
-## 🤝 **Collaborations & Affiliations**
+### 🤝 **Collaborations & Affiliations**
 
 - 🦊 [**Mozilla Collaborator**](https://www.mozilla.org/) - Contributing to open-source initiatives and web technologies
 - 📡 [**IEEE DIU Student Branch**](https://github.com/IEEE-DIU-SB) - Leading technical initiatives and student engagement
