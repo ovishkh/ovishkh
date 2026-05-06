@@ -116,7 +116,7 @@ Let's connect and collaborate! 🚀
 
 <div align="left">
 
-<h2 align="center" style="color:#00d084;"> 💼 **What I Bring to the Table** </h2>
+<h2 align="center" style="color:#00d084;">  What I Bring to the Table 💼</h2>
 
 - 🚀 **Serial AI Founder**: 2 successful exits (GetGroceryBD 2023, Wisdomic AI 2025), and co-founded Arklab AI with proven track record in building scalable products and startups
 - 🏆 **Award Winner**: National AI Olympiad 2025 winner showcasing innovation & technical excellence |
