@@ -114,6 +114,24 @@ Let's connect and collaborate! 🚀
 
 <br>
 
+<div align="left">
+
+<h2 align="center" style="color:#00d084;"> 💼 **What I Bring to the Table** </h2>
+
+- 🚀 **Serial AI Founder**: 2 successful exits (GetGroceryBD 2023, Wisdomic AI 2025) with proven track record in building scalable startups
+- 🏆 **Award Winner**: National AI Olympiad 2025 winner showcasing innovation & technical excellence
+- 🤖 **AI Product Engineering**: Expert in building AI-powered solutions, rapid MVP development, and product-market fit
+- 💡 **Technical Leadership**: Architect of scalable systems, mentoring teams, and providing strategic technical direction
+- 🔧 **Full Stack Expertise**: MERN stack mastery from database architecture to production deployment & optimization
+- ⚡ **Rapid Prototyping**: Proven ability to validate ideas quickly, iterate based on feedback, and scale operations
+- 📚 **Educator & Communicator**: Teaching AI, entrepreneurship, and technical concepts to millions of followers
+- 🤝 **Collaborations & Affiliations**: Have collaborated with 🦊 [Mozilla](https://www.mozilla.org/), 📡 [IEEE DIU Student Branch](https://github.com/IEEE-DIU-SB), and 🎓 [DIU Students Projects](https://github.com/DIU-Students-Projects)
+- 🎯 **Problem Solver**: Strong analytical skills to tackle complex technical challenges and build meaningful solutions
+
+</div>
+
+<br>
+
 <h2 align="center" style="color:#00d084;"> Open Source Works 💻 </h2>
 
 <p align="center">
@@ -150,6 +168,8 @@ Let's connect and collaborate! 🚀
   <a href="https://github.com/ovishkh/CSE422_Computer_Graphics_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE422_Computer_Graphics_Lab&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 422 - Computer Graphics Lab"></a>
   <a href="https://github.com/ovishkh/CSE414_Mobile_Application_Design_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE414_Mobile_Application_Design_Lab&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 414 - Mobile Application Design Lab"></a>
 </p>
+
+<div align="center">
 
 <h2 align="center" style="color:#00d084;"> Curated Collections 📚 </h2>
 
@@ -226,6 +246,8 @@ Programming Languages
 </tr>
 </table>
 
+</div>
+
 <br>
 
 <div align="center">
@@ -241,24 +263,6 @@ Programming Languages
 | **AI**                     | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-755139?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Lovable](https://img.shields.io/badge/Lovable-FF4F00?style=for-the-badge&logoColor=white) ![v0](https://img.shields.io/badge/v0-black?style=for-the-badge&logo=vercel&logoColor=white) ![a0](https://img.shields.io/badge/a0-000000?style=for-the-badge&logoColor=white) ![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge&logoColor=white) ![KIMI](https://img.shields.io/badge/KIMI-2F2F2F?style=for-the-badge&logo=kimi&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-007BFF?style=for-the-badge&logo=deepseek&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-6236FF?style=for-the-badge&logo=qwen&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white) |
 | **IDE**                    | ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white) ![Trae](https://img.shields.io/badge/Trae-000000?style=for-the-badge&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-5633a6?style=for-the-badge&logo=cursor&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-black?style=for-the-badge&logo=zed&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-C084FC?style=for-the-badge&logo=antigravity&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | **Tools**                  | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-
-</div>
-
-<br>
-
-<div align="left">
-
-<h2 align="center" style="color:#00d084;"> 💼 **What I Bring to the Table** </h2>
-
-- 🚀 **Serial AI Founder**: 2 successful exits (GetGroceryBD 2023, Wisdomic AI 2025) with proven track record in building scalable startups
-- 🏆 **Award Winner**: National AI Olympiad 2025 winner showcasing innovation & technical excellence
-- 🤖 **AI Product Engineering**: Expert in building AI-powered solutions, rapid MVP development, and product-market fit
-- 💡 **Technical Leadership**: Architect of scalable systems, mentoring teams, and providing strategic technical direction
-- 🔧 **Full Stack Expertise**: MERN stack mastery from database architecture to production deployment & optimization
-- ⚡ **Rapid Prototyping**: Proven ability to validate ideas quickly, iterate based on feedback, and scale operations
-- 📚 **Educator & Communicator**: Teaching AI, entrepreneurship, and technical concepts to millions of followers
-- 🤝 **Collaborations & Affiliations**: Have collaborated with 🦊 [Mozilla](https://www.mozilla.org/), 📡 [IEEE DIU Student Branch](https://github.com/IEEE-DIU-SB), and 🎓 [DIU Students Projects](https://github.com/DIU-Students-Projects)
-- 🎯 **Problem Solver**: Strong analytical skills to tackle complex technical challenges and build meaningful solutions
 
 </div>
 
