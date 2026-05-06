@@ -256,8 +256,8 @@ Programming Languages
 - 💡 **Technical Leadership**: Architect of scalable systems, mentoring teams, and providing strategic technical direction
 - 🔧 **Full Stack Expertise**: MERN stack mastery from database architecture to production deployment & optimization
 - ⚡ **Rapid Prototyping**: Proven ability to validate ideas quickly, iterate based on feedback, and scale operations
-  - 🦊 [Mozilla Collaborator](https://www.mozilla.org/) | 📡 [IEEE DIU Student Branch](https://github.com/IEEE-DIU-SB) | 🎓 [DIU Students Projects](https://github.com/DIU-Students-Projects)
 - 📚 **Educator & Communicator**: Teaching AI, entrepreneurship, and technical concepts to millions of followers
+- 🤝 **Collaborations & Affiliations**: Have collaborated with 🦊 [Mozilla](https://www.mozilla.org/), 📡 [IEEE DIU Student Branch](https://github.com/IEEE-DIU-SB), and 🎓 [DIU Students Projects](https://github.com/DIU-Students-Projects)
 - 🎯 **Problem Solver**: Strong analytical skills to tackle complex technical challenges and build meaningful solutions
 
 </div>
