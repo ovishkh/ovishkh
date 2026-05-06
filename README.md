@@ -246,9 +246,9 @@ Programming Languages
 
 <br>
 
-<div align="center">
+<div align="left">
 
-## 💼 **What I Bring to the Table**
+<h2 align="center" style="color:#00d084;"> 💼 **What I Bring to the Table** </h2>
 
 - 🚀 **Serial AI Founder**: 2 successful exits (GetGroceryBD 2023, Wisdomic AI 2025) with proven track record in building scalable startups
 - 🏆 **Award Winner**: National AI Olympiad 2025 winner showcasing innovation & technical excellence
