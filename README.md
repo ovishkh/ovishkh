@@ -335,6 +335,21 @@ Programming Languages
 
 <div align="center">
 
+## 💼 **What I Bring to the Table**
+
+- ✅ **Full Stack Expertise**: Proficient in MERN stack development from database to deployment
+- ✅ **Problem Solver**: Strong analytical skills to tackle complex technical challenges
+- ✅ **Clean Code**: Writing maintainable, well-documented, and efficient code
+- ✅ **Responsive Design**: Creating beautiful, mobile-first user interfaces
+- ✅ **Collaborative**: Experience working on team projects and version control
+- ✅ **Continuous Learner**: Always staying updated with the latest technologies and best practices
+
+</div>
+
+<br>
+
+<div align="center">
+
 ## 🏆 **Achievements**
 
 <p align="center">
