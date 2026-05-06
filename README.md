@@ -151,96 +151,11 @@ Let's connect and collaborate! 🚀
   <a href="https://github.com/ovishkh/CSE414_Mobile_Application_Design_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE414_Mobile_Application_Design_Lab&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 414 - Mobile Application Design Lab"></a>
 </p>
 
-<h2 align="center" style="color:#00d084;"> Featured Projects Collection 🎯 </h2>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%">
-
-### 🛒 [Career Pro](https://cp.ovishekh.com/)
-
-AI-powered career platform for professional development
-
-- Resume optimization & job matching
-- Personalized career insights
-- AI-powered recommendations
-- Live Demo: [cp.ovishekh.com](https://cp.ovishekh.com/)
-
-</td>
-<td width="50%">
-
-### 🧠 [Wisdomic AI](https://wisdomic.app/)
-
-Research agent for intelligent academic analysis
-
-- Literature review & gap analysis
-- LaTeX editor integration
-- AI-powered paper analysis
-- Live Demo: [wisdomic.app](https://wisdomic.app/) ✨ [Acquired'25]
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ✨ [Tawheed AI](https://tawheed.ovishekh.com/)
-
-Islamic authenticity checking powered by AI
-
-- Verifies content against Quran & Hadith
-- Social media content analysis
-- Real-time verification accuracy
-- Live Demo: [tawheed.ovishekh.com](https://tawheed.ovishekh.com/)
-
-</td>
-<td width="50%">
-
-### 💰 [Cryptell.io](https://cryptell.io/)
-
-Decentralized cryptocurrency exchange platform
-
-- Real-time trading functionality
-- Portfolio management system
-- Secure wallet integration
-- Live Demo: [cryptell.io](https://cryptell.io/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📈 [Super Trader](https://www.ovishekh.com/work/super-trader-ai)
-
-AI-powered crypto arbitrage platform
-
-- Identifies profitable opportunities
-- Real-time execution across exchanges
-- WebSocket-powered trading engine
-- Live Demo: [Super Trader](https://www.ovishekh.com/work/super-trader-ai)
-
-</td>
-<td width="50%">
-
-### 📱 [Ilynk App](https://www.ovishekh.com/work/ilynk-app)
-
-Micro gig marketplace for freelancers
-
-- Connect freelancers with clients
-- Secure payment processing
-- Rating & review system
-- Available on: [App Store](https://www.ovishekh.com/work/ilynk-app) & [Play Store](https://www.ovishekh.com/work/ilynk-app)
-
-</td>
-</tr>
-</table>
-
-<br>
-
 <h2 align="center" style="color:#00d084;"> Curated Collections 📚 </h2>
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%">
+    <td width="33.33%">
 
 ### 📖 [Docs](https://github.com/stars/ovishkh/lists/docs)
 
@@ -251,7 +166,7 @@ Essential Documentation
 - Curated resources
 
 </td>
-<td width="50%">
+<td width="33.33%">
 
 ### 🔓 [Open Source](https://github.com/stars/ovishkh/lists/open)
 
@@ -262,9 +177,7 @@ Free & Open Projects
 - Contribute & collaborate
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33.33%">
 
 ### 🚀 [Startups](https://github.com/stars/ovishkh/lists/startup)
 
@@ -275,7 +188,9 @@ Innovation & Growth
 - Success stories
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="33.33%">
 
 ### 🤖 [AI](https://github.com/stars/ovishkh/lists/ai)
 
@@ -286,9 +201,7 @@ Artificial Intelligence
 - Deep learning resources
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33.33%">
 
 ### 🧠 [Machine Learning](https://github.com/stars/ovishkh/lists/ml)
 
@@ -299,7 +212,7 @@ ML Frameworks & Tools
 - Data science resources
 
 </td>
-<td width="50%">
+<td width="33.33%">
 
 ### 💬 [Languages](https://github.com/stars/ovishkh/lists/language)
 
