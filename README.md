@@ -118,8 +118,8 @@ Let's connect and collaborate! 🚀
 
 <h2 align="center" style="color:#00d084;">  What I Bring to the Table 💼</h2>
 
-- 🚀 **Serial AI Founder**: 2 successful exits (GetGroceryBD 2023, Wisdomic AI 2025), and co-founded Arklab AI with proven track record in building scalable products and startups
-- 🏆 **Award Winner**: National AI Olympiad 2025 winner showcasing innovation & technical excellence |
+- 🚀 **Serial AI Founder**: 2 successful exits (GetGroceryBD 2023, Wisdomic AI 2025), and co-founded [Arklab AI](https://www.arklabai.com/) with proven track record in building scalable products and startups
+- 🏆 **Award Winner**: [National AI Olympiad 2025 winner](https://www.ovishekh.com/wiki#ref-8) showcasing innovation & technical excellence
 - 🎓 **Education**: Graduated from [Daffodil International University](https://www.daffodilvarsity.edu.bd/) - B.Sc in Computer Science & Engineering
 - 🤖 **AI Product Engineering**: Expert in building AI-powered solutions, rapid MVP development, and product-market fit
 - 💡 **Technical Leadership**: Architect of scalable systems, mentoring teams, and providing strategic technical direction
@@ -173,74 +173,98 @@ Let's connect and collaborate! 🚀
 
 <h2 align="center" style="color:#00d084;"> Curated Collections 📚 </h2>
 
-<table border="0" width="100%">
+<table border="1" cellpadding="20" width="100%" style="border-collapse: collapse; border-color: #00d084;">
   <tr>
-    <td width="33.33%">
+    <td width="33.33%" style="text-align: center; border: 1px solid #00d084;">
 
-### 📖 [Docs](https://github.com/stars/ovishkh/lists/docs)
+<h3 style="text-align: center; color:#00d084;">📖 <a href="https://github.com/stars/ovishkh/lists/docs" style="color:#00d084;">Docs</a></h3>
 
-Essential Documentation
+**Essential Documentation**
+
+<div style="text-align: left;">
 
 - Complete guides & references
 - Best practices & patterns
 - Curated resources
 
+</div>
+
 </td>
-<td width="33.33%">
+<td width="33.33%" style="text-align: center; border: 1px solid #00d084;">
 
-### 🔓 [Open Source](https://github.com/stars/ovishkh/lists/open)
+<h3 style="text-align: center; color:#00d084;">🔓 <a href="https://github.com/stars/ovishkh/lists/open" style="color:#00d084;">Open Source</a></h3>
 
-Free & Open Projects
+**Free & Open Projects**
+
+<div style="text-align: left;">
 
 - Community-driven initiatives
 - Transparent development
 - Contribute & collaborate
 
+</div>
+
 </td>
-<td width="33.33%">
+<td width="33.33%" style="text-align: center; border: 1px solid #00d084;">
 
-### 🚀 [Startups](https://github.com/stars/ovishkh/lists/startup)
+<h3 style="text-align: center; color:#00d084;">🚀 <a href="https://github.com/stars/ovishkh/lists/startup" style="color:#00d084;">Startups</a></h3>
 
-Innovation & Growth
+**Innovation & Growth**
+
+<div style="text-align: left;">
 
 - Scaling startups
 - Innovative ideas
 - Success stories
 
+</div>
+
 </td>
 </tr>
 <tr>
-<td width="33.33%">
+<td width="33.33%" style="text-align: center; border: 1px solid #00d084;">
 
-### 🤖 [AI](https://github.com/stars/ovishkh/lists/ai)
+<h3 style="text-align: center; color:#00d084;">🤖 <a href="https://github.com/stars/ovishkh/lists/ai" style="color:#00d084;">AI</a></h3>
 
-Artificial Intelligence
+**Artificial Intelligence**
+
+<div style="text-align: left;">
 
 - ML models & tools
 - AI frameworks
 - Deep learning resources
 
+</div>
+
 </td>
-<td width="33.33%">
+<td width="33.33%" style="text-align: center; border: 1px solid #00d084;">
 
-### 🧠 [Machine Learning](https://github.com/stars/ovishkh/lists/ml)
+<h3 style="text-align: center; color:#00d084;">🧠 <a href="https://github.com/stars/ovishkh/lists/ml" style="color:#00d084;">Machine Learning</a></h3>
 
-ML Frameworks & Tools
+**ML Frameworks & Tools**
+
+<div style="text-align: left;">
 
 - TensorFlow & PyTorch
 - Scikit-learn & libraries
 - Data science resources
 
+</div>
+
 </td>
-<td width="33.33%">
+<td width="33.33%" style="text-align: center; border: 1px solid #00d084;">
 
-### 💬 [Languages](https://github.com/stars/ovishkh/lists/language)
+<h3 style="text-align: center; color:#00d084;">💬 <a href="https://github.com/stars/ovishkh/lists/language" style="color:#00d084;">Languages</a></h3>
 
-Programming Languages
+**Programming Languages**
+
+<div style="text-align: left;">
 
 - Language ecosystems
 - Compiler & interpreters
 - Language features
+
+</div>
 
 </td>
 </tr>
