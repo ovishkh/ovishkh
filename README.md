@@ -96,9 +96,14 @@ Let's connect and collaborate! 🚀
     <td align="left">Next.js, Python, FastAPI, PostgreSQL, Claude API • <strong>Cloudflare, Vercel, Digital Ocean</strong></td>
   </tr>
   <tr>
-    <td align="left" style="color:#00d084;">💰 <font color="#00d084"><a href="https://cryptell.io/">Cryptell.io</a></font></td>
+    <td align="left" style="color:#00d084;">💰 <font color="#00d084"><a href="https://cryptell.com/">Cryptell.com</a></font></td>
     <td align="left">Fully functional decentralized crypto exchange platform with real-time trading, portfolio management, and secure wallet integration</td>
     <td align="left">Next.js, Node.js, Web3.js • <strong>Amazon Web Services</strong></td>
+  </tr>
+  <tr>
+    <td align="left" style="color:#00d084;">⭐ <font color="#00d084"><a href="https://influner.com/">Influner AI</a></font></td>
+    <td align="left">AI-powered influencer marketing platform that connects brands with micro and macro influencers, manages campaigns, and tracks performance metrics</td>
+    <td align="left">Next.js, Node.js, PostgreSQL, TensorFlow • <strong>Vercel</strong></td>
   </tr>
   <tr>
     <td align="left" style="color:#00d084;">📈 <font color="#00d084"><a href="https://www.ovishekh.com/work/super-trader-ai">Super Trader</a></font></td>
