@@ -186,7 +186,7 @@ Let's connect and collaborate! 🚀
 
 **Essential Documentation**
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 - Complete guides & references
 - Best practices & patterns
@@ -201,7 +201,7 @@ Let's connect and collaborate! 🚀
 
 **Free & Open Projects**
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 - Community-driven initiatives
 - Transparent development
@@ -216,7 +216,7 @@ Let's connect and collaborate! 🚀
 
 **Innovation & Growth**
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 - Scaling startups
 - Innovative ideas
@@ -233,7 +233,7 @@ Let's connect and collaborate! 🚀
 
 **Artificial Intelligence**
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 - ML models & tools
 - AI frameworks
@@ -248,7 +248,7 @@ Let's connect and collaborate! 🚀
 
 **ML Frameworks & Tools**
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 - TensorFlow & PyTorch
 - Scikit-learn & libraries
@@ -263,7 +263,7 @@ Let's connect and collaborate! 🚀
 
 **Programming Languages**
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 - Language ecosystems
 - Compiler & interpreters
