@@ -96,7 +96,8 @@ Let's connect and collaborate! 🚀
     <td align="left">Next.js, Python, FastAPI, PostgreSQL, Claude API • <strong>Cloudflare, Vercel, Digital Ocean</strong></td>
   </tr>
   <tr>
-    <td align="left" style="color:#00d084;">💰 <font color="#00d084"><a href="https://cryptell.com/">Cryptell.com</a></font></td>
+
+    <td align="left" style="color:#00d084;">�💰 <font color="#00d084"><a href="https://cryptell.com/">Cryptell.com</a></font></td>
     <td align="left">Fully functional decentralized crypto exchange platform with real-time trading, portfolio management, and secure wallet integration</td>
     <td align="left">Next.js, Node.js, Web3.js • <strong>Amazon Web Services</strong></td>
   </tr>
@@ -111,7 +112,12 @@ Let's connect and collaborate! 🚀
     <td align="left">Next.js, Node.js, WebSocket APIs • <strong>Hostinger VPS</strong></td>
   </tr>
   <tr>
-    <td align="left" style="color:#00d084;">📱 <font color="#00d084"><a href="https://www.ovishekh.com/work/ilynk-app">Ilynk App</a></font></td>
+    <td align="left" style="color:#00d084;">� <font color="#00d084"><a href="https://imam.ovishekh.com/">Imam AI</a></font></td>
+    <td align="left">Islamic AI agent with agentic capabilities including Fiqa Navigator for Islamic jurisprudence and Quran Verifier for authentic guidance</td>
+    <td align="left">Next.js, Python, FastAPI, PostgreSQL, Claude API • <strong>Cloudflare, Vercel</strong></td>
+  </tr>
+  <tr>
+    <td align="left" style="color:#00d084;">�📱 <font color="#00d084"><a href="https://www.ovishekh.com/work/ilynk-app">Ilynk App</a></font></td>
     <td align="left">Micro gig marketplace connecting freelancers and clients for short-term projects, tasks, and services with secure payment and rating system</td>
     <td align="left">Flutter, Dart, Apple Dev Kit • <strong>Play Store, App Store</strong></td>
   </tr>
