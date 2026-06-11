@@ -185,7 +185,7 @@ Let's connect and collaborate! 🚀
 
 <table border="1" cellpadding="20" width="100%" style="border-collapse: collapse; border-color: #00d084;">
   <tr>
-    <td width="33.33%" style="text-align: center; border: 1px solid #00d084;">
+    <td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
 <h3 style="text-align: center; color:#00d084;">📖 <a href="https://github.com/stars/ovishkh/lists/docs" style="color:#00d084;">Docs</a></h3>
 
@@ -200,7 +200,7 @@ Let's connect and collaborate! 🚀
 </div>
 
 </td>
-<td width="33.33%" style="text-align: center; border: 1px solid #00d084;">
+<td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
 <h3 style="text-align: center; color:#00d084;">🔓 <a href="https://github.com/stars/ovishkh/lists/open" style="color:#00d084;">Open Source</a></h3>
 
@@ -215,7 +215,7 @@ Let's connect and collaborate! 🚀
 </div>
 
 </td>
-<td width="33.33%" style="text-align: center; border: 1px solid #00d084;">
+<td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
 <h3 style="text-align: center; color:#00d084;">🚀 <a href="https://github.com/stars/ovishkh/lists/startup" style="color:#00d084;">Startups</a></h3>
 
@@ -230,9 +230,24 @@ Let's connect and collaborate! 🚀
 </div>
 
 </td>
+<td width="25%" style="text-align: center; border: 1px solid #00d084;">
+
+<h3 style="text-align: center; color:#00d084;">☪️ <a href="https://github.com/stars/ovishkh/lists/islamic" style="color:#00d084;">Islamic</a></h3>
+
+**Islamic Resources**
+
+<div style="text-align: center;">
+
+- Quran & Hadith
+- Islamic knowledge
+- Faith-based projects
+
+</div>
+
+</td>
 </tr>
 <tr>
-<td width="33.33%" style="text-align: center; border: 1px solid #00d084;">
+<td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
 <h3 style="text-align: center; color:#00d084;">🤖 <a href="https://github.com/stars/ovishkh/lists/ai" style="color:#00d084;">AI</a></h3>
 
@@ -247,7 +262,7 @@ Let's connect and collaborate! 🚀
 </div>
 
 </td>
-<td width="33.33%" style="text-align: center; border: 1px solid #00d084;">
+<td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
 <h3 style="text-align: center; color:#00d084;">🧠 <a href="https://github.com/stars/ovishkh/lists/ml" style="color:#00d084;">Machine Learning</a></h3>
 
@@ -262,7 +277,7 @@ Let's connect and collaborate! 🚀
 </div>
 
 </td>
-<td width="33.33%" style="text-align: center; border: 1px solid #00d084;">
+<td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
 <h3 style="text-align: center; color:#00d084;">💬 <a href="https://github.com/stars/ovishkh/lists/language" style="color:#00d084;">Languages</a></h3>
 
@@ -275,6 +290,9 @@ Let's connect and collaborate! 🚀
 - Language features
 
 </div>
+
+</td>
+<td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
 </td>
 </tr>
