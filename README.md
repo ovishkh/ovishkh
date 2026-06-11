@@ -191,7 +191,7 @@ Let's connect and collaborate! 🚀
 
 **Essential Documentation**
 
-Guides & references
+Complete guides, best practices & technical references for learning
 
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
@@ -200,7 +200,7 @@ Guides & references
 
 **Free & Open Projects**
 
-Community projects
+Community-driven initiatives, transparent development & collaboration opportunities
 
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
@@ -209,7 +209,7 @@ Community projects
 
 **Innovation & Growth**
 
-Growth & innovation
+Scaling startups, innovative ideas & proven success stories
 
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
@@ -218,7 +218,7 @@ Growth & innovation
 
 **Islamic Resources**
 
-Faith resources
+Quran, Hadith, Islamic knowledge & faith-based projects
 
 </td>
 </tr>
@@ -229,7 +229,7 @@ Faith resources
 
 **Artificial Intelligence**
 
-ML models & tools
+ML models, AI frameworks & deep learning resources
 
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
@@ -238,7 +238,7 @@ ML models & tools
 
 **ML Frameworks & Tools**
 
-Data science
+TensorFlow, PyTorch, scikit-learn & data science libraries
 
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
@@ -247,7 +247,7 @@ Data science
 
 **Programming Languages**
 
-Programming concepts
+Language ecosystems, compilers & language features
 
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
