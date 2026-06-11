@@ -191,12 +191,16 @@ Let's connect and collaborate! 🚀
 
 **Essential Documentation**
 
+Guides & references
+
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
 <h3 style="text-align: center; color:#00d084;">🔓 <a href="https://github.com/stars/ovishkh/lists/open" style="color:#00d084;">Open Source</a></h3>
 
 **Free & Open Projects**
+
+Community projects
 
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
@@ -205,12 +209,16 @@ Let's connect and collaborate! 🚀
 
 **Innovation & Growth**
 
+Growth & innovation
+
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
 <h3 style="text-align: center; color:#00d084;">☪️ <a href="https://github.com/stars/ovishkh/lists/islamic" style="color:#00d084;">Islamic</a></h3>
 
 **Islamic Resources**
+
+Faith resources
 
 </td>
 </tr>
@@ -221,6 +229,8 @@ Let's connect and collaborate! 🚀
 
 **Artificial Intelligence**
 
+ML models & tools
+
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
@@ -228,12 +238,16 @@ Let's connect and collaborate! 🚀
 
 **ML Frameworks & Tools**
 
+Data science
+
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
 <h3 style="text-align: center; color:#00d084;">💬 <a href="https://github.com/stars/ovishkh/lists/language" style="color:#00d084;">Languages</a></h3>
 
 **Programming Languages**
+
+Programming concepts
 
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
