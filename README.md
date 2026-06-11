@@ -191,28 +191,12 @@ Let's connect and collaborate! 🚀
 
 **Essential Documentation**
 
-<div style="text-align: center;">
-
-- Complete guides & references
-- Best practices & patterns
-- Curated resources
-
-</div>
-
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
 <h3 style="text-align: center; color:#00d084;">🔓 <a href="https://github.com/stars/ovishkh/lists/open" style="color:#00d084;">Open Source</a></h3>
 
 **Free & Open Projects**
-
-<div style="text-align: center;">
-
-- Community-driven initiatives
-- Transparent development
-- Contribute & collaborate
-
-</div>
 
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
@@ -221,28 +205,12 @@ Let's connect and collaborate! 🚀
 
 **Innovation & Growth**
 
-<div style="text-align: center;">
-
-- Scaling startups
-- Innovative ideas
-- Success stories
-
-</div>
-
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
 <h3 style="text-align: center; color:#00d084;">☪️ <a href="https://github.com/stars/ovishkh/lists/islamic" style="color:#00d084;">Islamic</a></h3>
 
 **Islamic Resources**
-
-<div style="text-align: center;">
-
-- Quran & Hadith
-- Islamic knowledge
-- Faith-based projects
-
-</div>
 
 </td>
 </tr>
@@ -253,14 +221,6 @@ Let's connect and collaborate! 🚀
 
 **Artificial Intelligence**
 
-<div style="text-align: center;">
-
-- ML models & tools
-- AI frameworks
-- Deep learning resources
-
-</div>
-
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
@@ -268,28 +228,12 @@ Let's connect and collaborate! 🚀
 
 **ML Frameworks & Tools**
 
-<div style="text-align: center;">
-
-- TensorFlow & PyTorch
-- Scikit-learn & libraries
-- Data science resources
-
-</div>
-
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
 
 <h3 style="text-align: center; color:#00d084;">💬 <a href="https://github.com/stars/ovishkh/lists/language" style="color:#00d084;">Languages</a></h3>
 
 **Programming Languages**
-
-<div style="text-align: center;">
-
-- Language ecosystems
-- Compiler & interpreters
-- Language features
-
-</div>
 
 </td>
 <td width="25%" style="text-align: center; border: 1px solid #00d084;">
