@@ -111,7 +111,7 @@ Let's connect and collaborate! 🚀
     <td align="left">Next.js, Node.js, WebSocket APIs • <strong>Hostinger VPS</strong></td>
   </tr>
   <tr>
-    <td align="left" style="color:#00d084;">� <font color="#00d084"><a href="https://imam.ovishekh.com/">Imam AI</a></font></td>
+    <td align="left" style="color:#00d084;">� <font color="#00d084"><a href="https://imam.ovishekh.com/">Imam AI</a></font> <span style="background-color:#00d084; color:white; padding:2px 6px; border-radius:3px; font-size:6px; font-weight:bold;">[Awarded'25]</span></td>
     <td align="left">Islamic AI agent with agentic capabilities including Fiqa Navigator for Islamic jurisprudence and Quran Verifier for authentic guidance</td>
     <td align="left">Next.js, Python, FastAPI, PostgreSQL, Claude API • <strong>Cloudflare, Vercel</strong></td>
   </tr>
