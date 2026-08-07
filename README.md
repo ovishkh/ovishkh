@@ -66,7 +66,7 @@
     <td width="35%" align="center" style="color:#00d084;"><strong>Tech Stack & Infra</strong></td>
   </tr>
   <tr>
-    <td align="left" style="color:#00d084;">🧠 <font color="#00d084"><a href="https://wisdomic.app/">Wisdomic AI</a></font> <br><span style="background-color:#00d084; color:white; padding:2px 6px; border-radius:3px; font-size:10px; font-weight:bold;">[Acquired'25]</span></td>
+    <td align="left" style="color:#00d084;">🧠 <font color="#00d084"><a href="https://www.ovishekh.com/notes/wisdomic-demo">Wisdomic AI</a></font> <br><span style="background-color:#00d084; color:white; padding:2px 6px; border-radius:3px; font-size:10px; font-weight:bold;">[Acquired'25]</span></td>
     <td align="left">AI research agent for literature review and academic analysis. Successfully scaled and acquired.</td>
     <td align="left">React, Node.js, FastAPI, DeepSeek • <strong>GCP</strong></td>
   </tr>
@@ -76,7 +76,7 @@
     <td align="left">Next.js, Python, PostgreSQL, Claude API • <strong>Vercel</strong></td>
   </tr>
   <tr>
-    <td align="left" style="color:#00d084;">🎯 <font color="#00d084"><a href="https://cp.ovishekh.com/">Career Pro</a></font></td>
+    <td align="left" style="color:#00d084;">🎯 <font color="#00d084"><a href="https://cp.ovishekh.com/">JobwiseLM</a></font> <br><span style="background-color:#00d084; color:white; padding:2px 6px; border-radius:3px; font-size:10px; font-weight:bold;">[Thesis'26]</span></td>
     <td align="left">AI-powered career platform handling resume optimization and intelligent job matching.</td>
     <td align="left">Next.js, Node.js, PostgreSQL, Redis • <strong>Vercel</strong></td>
   </tr>
