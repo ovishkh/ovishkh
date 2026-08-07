@@ -283,8 +283,7 @@ Language ecosystems, compilers & language features
 ## 🏆 **Achievements**
 
 <p align="center">
-  <!-- The public instance of github-profile-trophy is currently disabled -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=ovishkh&theme=onedark&column=3&margin-w=15" alt="GitHub Trophies" /> -->
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </p>
 
 </div>
