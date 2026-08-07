@@ -58,7 +58,7 @@ Let's connect and collaborate! 🚀
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovishkh&layout=compact&theme=github_dark&title_color=00d084&text_color=00d084&bg_color=0d1117&border_color=00d080&hide=swig" alt="Top Languages" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ovishkh&layout=compact&theme=github_dark&title_color=00d084&text_color=00d084&bg_color=0d1117&border_color=00d080&hide=swig" alt="Top Languages" width="100%" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=ovishkh&theme=github-dark" alt="GitHub Streak" width="100%" />
@@ -283,7 +283,8 @@ Language ecosystems, compilers & language features
 ## 🏆 **Achievements**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ovishkh&theme=onedark&column=3&margin-w=15" alt="GitHub Trophies" />
+  <!-- The public instance of github-profile-trophy is currently disabled -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=ovishkh&theme=onedark&column=3&margin-w=15" alt="GitHub Trophies" /> -->
 </p>
 
 </div>
