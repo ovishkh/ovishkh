@@ -6,54 +6,175 @@
 </p>
 
 <p align="center">
-  <strong>Exploring the Future of Technology</strong>
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=3000&pause=800&color=00d084&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+AI+Engineer;%F0%9F%94%97+Secure+System+Designer;%E2%9A%9B%EF%B8%8F+Quantum+Computing+Learner;%F0%9F%92%A1+Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=3000&pause=800&color=00d084&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+AI+Engineer;%F0%9F%94%97+Secure+System+Designer;%F0%9F%9A%80+Serial+Founder;%F0%9F%92%A1+Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
-✨ Passionate about building **innovative solutions**, exploring **cutting-edge tech**, and turning **ideas into reality**.  
-<br>
-Let's connect and collaborate! 🚀
+<p align="center">
+  <a href="https://github.com/ovishkh?tab=followers">
+    <img src="https://img.shields.io/github/followers/ovishkh?label=FOLLOWERS&style=flat-square&color=00d084" alt="Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ovishkh&color=00d084&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/ovishkh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn" />
+  </a>
+  <a href="https://ovishekh.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=00d084&logoColor=white&style=for-the-badge" height="28" alt="Website" />
+  </a>
+  <a href="https://twitter.com/ovishkh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="28" alt="X" />
+  </a>
+  <a href="https://www.youtube.com/@ovishkh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28" alt="YouTube" />
+  </a>
+  <a href="https://www.ovishekh.com/call" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="28" alt="WhatsApp" />
+  </a>
 </div>
 
 <br>
 
+<h3 align="center">💡 AI Engineer & Serial Founder | Building Scalable, Intelligent Systems</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ovishkh&color=00d084&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://github.com/ovishkh?tab=followers">
-    <img src="https://img.shields.io/github/followers/ovishkh?label=FOLLOWERS&style=flat-square&color=00d084" alt="Followers" />
-  </a>
+  Passionate about turning cutting-edge research into high-impact, production-ready AI products.<br>
+  Proven track record in scaling platforms, leading technical teams, and rapid MVP development.
 </p>
 
-<div align="center">
-  <a href="https://www.youtube.com/@ovishkh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-  <a href="https://www.linkedin.com/in/ovishkh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/ovishkh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="X" />
-  </a>
-  <a href="https://ovishekh.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=00d084&logoColor=white&style=for-the-badge" height="35" alt="Website" />
-  </a>
-  <a href="https://www.ovishekh.com/call" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="WhatsApp" />
-  </a>
+<table border="0" width="100%">
+  <tr>
+    <td align="center">🚀 <b>2 Successful Exits</b> (Wisdomic AI '25, GetGroceryBD '23)</td>
+    <td align="center">🏆 <b>National AI Olympiad 2025</b> Winner</td>
+    <td align="center">🤖 Architected scalable <b>AI Agents & Systems</b></td>
+  </tr>
+</table>
+
 </div>
 
 <br>
 <hr>
 
+<h2 align="center" style="color:#00d084;"> 🌟 Featured Projects </h2>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="25%" align="center" style="color:#00d084;"><strong>Project</strong></td>
+    <td width="40%" align="center" style="color:#00d084;"><strong>Impact & Description</strong></td>
+    <td width="35%" align="center" style="color:#00d084;"><strong>Tech Stack & Infra</strong></td>
+  </tr>
+  <tr>
+    <td align="left" style="color:#00d084;">🧠 <font color="#00d084"><a href="https://wisdomic.app/">Wisdomic AI</a></font> <br><span style="background-color:#00d084; color:white; padding:2px 6px; border-radius:3px; font-size:10px; font-weight:bold;">[Acquired'25]</span></td>
+    <td align="left">AI research agent for literature review and academic analysis. Successfully scaled and acquired.</td>
+    <td align="left">React, Node.js, FastAPI, DeepSeek • <strong>GCP</strong></td>
+  </tr>
+  <tr>
+    <td align="left" style="color:#00d084;">☪️ <font color="#00d084"><a href="https://imam.ovishekh.com/">Imam AI</a></font> <br><span style="background-color:#00d084; color:white; padding:2px 6px; border-radius:3px; font-size:10px; font-weight:bold;">[Awarded'26]</span></td>
+    <td align="left">Advanced Islamic AI agent with verification capabilities across social media content.</td>
+    <td align="left">Next.js, Python, PostgreSQL, Claude API • <strong>Vercel</strong></td>
+  </tr>
+  <tr>
+    <td align="left" style="color:#00d084;">🎯 <font color="#00d084"><a href="https://cp.ovishekh.com/">Career Pro</a></font></td>
+    <td align="left">AI-powered career platform handling resume optimization and intelligent job matching.</td>
+    <td align="left">Next.js, Node.js, PostgreSQL, Redis • <strong>Vercel</strong></td>
+  </tr>
+  <tr>
+    <td align="left" style="color:#00d084;">✨ <font color="#00d084"><a href="https://tawheed.ovishekh.com/">Tawheed AI</a></font></td>
+    <td align="left">Content authenticity verification system cross-referencing Quranic sources at scale.</td>
+    <td align="left">Next.js, FastAPI, Claude API • <strong>Cloudflare, Digital Ocean</strong></td>
+  </tr>
+  <tr>
+    <td align="left" style="color:#00d084;">💰 <font color="#00d084"><a href="https://cryptell.com/">Cryptell</a></font></td>
+    <td align="left">Fully decentralized crypto exchange with real-time trading and secure wallet integration.</td>
+    <td align="left">Next.js, Node.js, Web3.js • <strong>AWS</strong></td>
+  </tr>
+  <tr>
+    <td align="left" style="color:#00d084;">📈 <font color="#00d084"><a href="https://www.ovishekh.com/work/super-trader-ai">Super Trader</a></font></td>
+    <td align="left">High-frequency AI crypto arbitrage platform executing profitable real-time opportunities.</td>
+    <td align="left">Next.js, Node.js, WebSocket APIs • <strong>Hostinger VPS</strong></td>
+  </tr>
+  <tr>
+    <td align="left" style="color:#00d084;">📱 <font color="#00d084"><a href="https://www.ovishekh.com/work/ilynk-app">Ilynk App</a></font></td>
+    <td align="left">Micro-gig mobile marketplace connecting freelancers with a secure payment system.</td>
+    <td align="left">Flutter, Dart, Firebase • <strong>App Store, Google Play</strong></td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center" style="color:#00d084;"> 💼 Professional Value & Leadership </h2>
+
+<div align="left">
+
+- 🚀 **Proven Entrepreneurship**: Co-founded [Arklab AI](https://www.arklabai.com/) and drove 2 startups from inception to successful acquisition.
+- 💡 **Technical Architecture**: Designing resilient, highly-available backend systems and microservices across AWS and GCP.
+- 🤖 **Applied AI & LLMs**: Deep expertise in integrating foundational models, fine-tuning, RAG architectures, and agentic workflows.
+- ⚡ **Rapid Execution**: Consistently turning zero-to-one product ideas into validated, scalable MVPs.
+- 🤝 **Community Leadership**: Collaborated with [Mozilla](https://www.mozilla.org/) and [IEEE](https://github.com/IEEE-DIU-SB). Strong advocate for mentorship and technical communication.
+- 🎓 **Education**: B.Sc. in Computer Science & Engineering, [Daffodil International University](https://www.daffodilvarsity.edu.bd/).
+
+</div>
+
+<br>
+
+<h2 align="center" style="color:#00d084;"> 📦 Technical Arsenal </h2>
 <div align="center">
 
-## 📊 GitHub Stats
+| **Category**               | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**              | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Cloud & Infra**          | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Databases**              | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Frameworks**             | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring--Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **AI / ML**                | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-755139?style=for-the-badge&logo=anthropic&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![DeepSeek](https://img.shields.io/badge/DeepSeek-007BFF?style=for-the-badge&logo=deepseek&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                |
+
+</div>
+
+<br>
+
+<h2 align="center" style="color:#00d084;"> 💻 Featured Open Source </h2>
+
+<p align="center">
+  <a href="https://github.com/ovishkh/ChessLM"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=ChessLM&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="ChessLM"></a>
+  <a href="https://github.com/ovishkh/anygpt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=anygpt&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AnyGPT"></a>
+  <a href="https://github.com/ovishkh/SalamApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=SalamApp&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="SalamApp"></a>
+  <a href="https://github.com/ovishkh/Cal-AI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Cal-AI&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="Cal-AI"></a>
+  <a href="https://github.com/ovishkh/TinyCompiler"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=TinyCompiler&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="TinyCompiler"></a>
+  <a href="https://github.com/ovishkh/AlgoMaze"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AlgoMaze&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AlgoMaze"></a>
+</p>
+
+<details align="center">
+  <summary style="font-size: 1.2em; color: #00d084; cursor: pointer; padding: 10px;"><b>Show More Projects & Academic Courses ⬇️</b></summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/ovishkh/AndyOS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AndyOS&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AndyOS"></a>
+    <a href="https://github.com/ovishkh/OpenGLS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=OpenGLS&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="OpenGLS"></a>
+    <a href="https://github.com/ovishkh/WeatherApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=WeatherApp&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="WeatherApp"></a>
+    <a href="https://github.com/ovishkh/arafah"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=arafah&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="arafah"></a>
+    <a href="https://github.com/ovishkh/AniPlay"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AniPlay&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AniPlay"></a>
+    <a href="https://github.com/ovishkh/BlockChat"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=BlockChat&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="BlockChat"></a>
+    <a href="https://github.com/ovishkh/TubeScope"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=TubeScope&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="TubeScope"></a>
+    <a href="https://github.com/ovishkh/FONTY"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=FONTY&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="FONTY"></a>
+    <a href="https://github.com/ovishkh/DIU-Smart-City-OpenGL"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=DIU-Smart-City-OpenGL&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="DIU Smart City OpenGL"></a>
+  </p>
+  <h3 align="center" style="color:#00d084;">🎓 Academic Courses</h3>
+  <p align="center">
+    <a href="https://github.com/ovishkh/CSE321_Data-Mining-and-Machine-Learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE321_Data-Mining-and-Machine-Learning&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 321"></a>
+    <a href="https://github.com/ovishkh/CSE231_Embedded_Systems_IoT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE231_Embedded_Systems_IoT&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 231"></a>
+    <a href="https://github.com/ovishkh/CSE316_Artificial-Intelligence-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE316_Artificial-Intelligence-Lab&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 316"></a>
+    <a href="https://github.com/ovishkh/CSE315_Introduction-to-Data-Science"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE315_Introduction-to-Data-Science&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 315"></a>
+    <a href="https://github.com/ovishkh/CSE312_Database-Management-System-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE312_Database-Management-System-Lab&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 312"></a>
+    <a href="https://github.com/ovishkh/CSE222_Object-Oriented-Programming_2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE222_Object-Oriented-Programming_2&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 222"></a>
+  </p>
+</details>
+
+<br>
+
+<div align="center">
+
+## 📊 Analytics & Activity
 
 <table border="0" width="100%">
   <tr>
@@ -72,215 +193,15 @@ Let's connect and collaborate! 🚀
 
 </div>
 
-<h2 align="center" style="color:#00d084;"> Popular Projects ⭐ </h2>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="25%" align="center" style="color:#00d084;"><strong>Project</strong></td>
-    <td width="40%" align="center" style="color:#00d084;"><strong>What it does</strong></td>
-    <td width="35%" align="center" style="color:#00d084;"><strong>Stack & Deployment</strong></td>
-  </tr>
-  <tr>
-    <td align="left" style="color:#00d084;">🎯 <font color="#00d084"><a href="https://cp.ovishekh.com/">Career Pro</a></font></td>
-    <td align="left">AI-powered career platform for professional development, resume optimization, and job matching with personalized insights</td>
-    <td align="left">Next.js, Node.js, PostgreSQL, Redis, OpenAI API • <strong>Vercel</strong></td>
-  </tr>
-  <tr>
-    <td align="left" style="color:#00d084;">🧠 <font color="#00d084"><a href="https://wisdomic.app/">Wisdomic AI</a></font> <span style="background-color:#00d084; color:white; padding:2px 6px; border-radius:3px; font-size:6px; font-weight:bold;">[Acquired'25]</span></td>
-    <td align="left">Research agent for literature review, gap analysis, LaTeX editor and intelligent academic paper analysis powered by AI</td>
-    <td align="left">React, Node.js, FastAPI, MongoDB, Google Cloud, Fine-tuned DeepSeek • <strong>Google Cloud Platform</strong></td>
-  </tr>
-  <tr>
-    <td align="left" style="color:#00d084;">✨ <font color="#00d084"><a href="https://tawheed.ovishekh.com/">Tawheed AI</a></font></td>
-    <td align="left">Islamic authenticity checking with AI, verifies social media and online content against Quran and Hadith with verification accuracy</td>
-    <td align="left">Next.js, Python, FastAPI, PostgreSQL, Claude API • <strong>Cloudflare, Vercel, Digital Ocean</strong></td>
-  </tr>
-  <tr>
-    <td align="left" style="color:#00d084;">💰 <font color="#00d084"><a href="https://cryptell.com/">Cryptell.com</a></font></td>
-    <td align="left">Fully functional decentralized crypto exchange platform with real-time trading, portfolio management, and secure wallet integration</td>
-    <td align="left">Next.js, Node.js, Web3.js • <strong>Amazon Web Services</strong></td>
-  </tr>
-  <tr>
-    <td align="left" style="color:#00d084;">⭐ <font color="#00d084"><a href="https://influner.com/">Influner AI</a></font></td>
-    <td align="left">AI-based UGC avatar platform for brands to create personalized content campaigns and influencer collaborations at scale</td>
-    <td align="left">Next.js, Node.js, PostgreSQL, TensorFlow, Flux • <strong>AWS</strong></td>
-  </tr>
-  <tr>
-    <td align="left" style="color:#00d084;">📈 <font color="#00d084"><a href="https://www.ovishekh.com/work/super-trader-ai">Super Trader</a></font></td>
-    <td align="left">AI-powered crypto arbitrage platform that identifies and executes profitable trading opportunities across multiple exchanges in real-time</td>
-    <td align="left">Next.js, Node.js, WebSocket APIs • <strong>Hostinger VPS</strong></td>
-  </tr>
-  <tr>
-    <td align="left" style="color:#00d084;">� <font color="#00d084"><a href="https://imam.ovishekh.com/">Imam AI</a></font> <span style="background-color:#00d084; color:white; padding:2px 6px; border-radius:3px; font-size:6px; font-weight:bold;">[Awarded'26]</span></td>
-    <td align="left">Islamic AI agent with agentic capabilities including Fiqa Navigator for Islamic jurisprudence and Quran Verifier for authentic guidance</td>
-    <td align="left">Next.js, Python, FastAPI, PostgreSQL, Claude API • <strong>Cloudflare, Vercel</strong></td>
-  </tr>
-  <tr>
-    <td align="left" style="color:#00d084;">�📱 <font color="#00d084"><a href="https://www.ovishekh.com/work/ilynk-app">Ilynk App</a></font></td>
-    <td align="left">Micro gig marketplace connecting freelancers and clients for short-term projects, tasks, and services with secure payment and rating system</td>
-    <td align="left">Flutter, Dart, Apple Dev Kit • <strong>Play Store, App Store</strong></td>
-  </tr>
-</table>
-
-<br>
-
-<div align="left">
-
-<h2 align="center" style="color:#00d084;">  What I Bring to the Table 💼</h2>
-
-- 🚀 **Serial AI Founder**: 2 successful exits (GetGroceryBD 2023, Wisdomic AI 2025), and co-founded [Arklab AI](https://www.arklabai.com/) with proven track record in building scalable products and startups
-- 🏆 **Award Winner**: [National AI Olympiad 2025 winner](https://www.ovishekh.com/wiki#ref-8) showcasing innovation & technical excellence
-- 🎓 **Education**: Graduated from [Daffodil International University](https://www.daffodilvarsity.edu.bd/) - B.Sc in Computer Science & Engineering
-- 🤖 **AI Product Engineering**: Expert in building AI-powered solutions, rapid MVP development, and product-market fit
-- 💡 **Technical Leadership**: Architect of scalable systems, mentoring teams, and providing strategic technical direction
-- ⚡ **Rapid Prototyping**: Proven ability to validate ideas quickly, iterate based on feedback, and scale operations
-- 📚 **Educator & Communicator**: Teaching AI, entrepreneurship, and technical concepts to millions of followers
-- 🤝 **Collaborations & Affiliations**: Have collaborated with 🦊 [Mozilla](https://www.mozilla.org/), 📡 [IEEE DIU Student Branch](https://github.com/IEEE-DIU-SB), and 🎓 [DIU Students Projects](https://github.com/DIU-Students-Projects)
-- 🎯 **Problem Solver**: Strong analytical skills to tackle complex technical challenges and build meaningful solutions
-
-</div>
-
-<br>
-
-<h2 align="center" style="color:#00d084;"> Open Source Works 💻 </h2>
-
-<p align="center">
-  <a href="https://github.com/ovishkh/ChessLM"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=ChessLM&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="ChessLM"></a>
-  <a href="https://github.com/ovishkh/SalamApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=SalamApp&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="SalamApp"></a>
-  <a href="https://github.com/ovishkh/Cal-AI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Cal-AI&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="Cal-AI"></a>
-  <a href="https://github.com/ovishkh/AndyOS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AndyOS&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AndyOS"></a>
-  <a href="https://github.com/ovishkh/OpenGLS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=OpenGLS&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="OpenGLS"></a>
-  <a href="https://github.com/ovishkh/WeatherApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=WeatherApp&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="WeatherApp"></a>
-  <a href="https://github.com/ovishkh/arafah"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=arafah&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="arafah"></a>
-  <a href="https://github.com/ovishkh/AniPlay"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AniPlay&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AniPlay"></a>
-  <a href="https://github.com/ovishkh/BlockChat"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=BlockChat&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="BlockChat"></a>
-  <a href="https://github.com/ovishkh/anygpt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=anygpt&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AnyGPT"></a>
-  <a href="https://github.com/ovishkh/TubeScope"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=TubeScope&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="TubeScope"></a>
-  <a href="https://github.com/ovishkh/FONTY"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=FONTY&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="FONTY"></a>
-  <a href="https://github.com/ovishkh/TinyCompiler"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=TinyCompiler&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="TinyCompiler"></a>
-  <a href="https://github.com/ovishkh/AlgoMaze"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AlgoMaze&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AlgoMaze"></a>
-  <a href="https://github.com/ovishkh/DIU-Smart-City-OpenGL"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=DIU-Smart-City-OpenGL&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="DIU Smart City OpenGL"></a>
-</p>
-
-<h2 align="center" style="color:#00d084;"> CSE Courses 🎓 </h2>
-
-<p align="center">
-  <a href="https://github.com/ovishkh/CSE321_Data-Mining-and-Machine-Learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE321_Data-Mining-and-Machine-Learning&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 321 - Data Mining and Machine Learning"></a>
-  <a href="https://github.com/ovishkh/CSE322_Data-Mining-and-Machine-Learning-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE322_Data-Mining-and-Machine-Learning-Lab&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 322 - Data Mining and Machine Learning Lab"></a>
-  <a href="https://github.com/ovishkh/CSE332_Compilar_Design_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE332_Compilar_Design_Lab&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 332 - Compiler Design Lab"></a>
-  <a href="https://github.com/ovishkh/CSE416_Web_Engineering_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE416_Web_Engineering_Lab&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 416 - Web Engineering Lab"></a>
-  <a href="https://github.com/ovishkh/CSE231_Embedded_Systems_IoT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE231_Embedded_Systems_IoT&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 231 - Embedded Systems &amp; IoT"></a>
-  <a href="https://github.com/ovishkh/CSE312_Database-Management-System-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE312_Database-Management-System-Lab&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 312 - Database Management System (SQL)"></a>
-  <a href="https://github.com/ovishkh/CSE315_Introduction-to-Data-Science"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE315_Introduction-to-Data-Science&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 315 - Introduction to Data Science"></a>
-  <a href="https://github.com/ovishkh/CSE316_Artificial-Intelligence-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE316_Artificial-Intelligence-Lab&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 316 - Artificial Intelligence Lab"></a>
-  <a href="https://github.com/ovishkh/CSE222_Object-Oriented-Programming_2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE222_Object-Oriented-Programming_2&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 222 - Object Oriented Programming II"></a>
-  <a href="https://github.com/ovishkh/CSE224_Digital-Electronics-Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE224_Digital-Electronics-Lab&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 224 - Digital Electronics Lab"></a>
-  <a href="https://github.com/ovishkh/CSE422_Computer_Graphics_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE422_Computer_Graphics_Lab&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 422 - Computer Graphics Lab"></a>
-  <a href="https://github.com/ovishkh/CSE414_Mobile_Application_Design_Lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CSE414_Mobile_Application_Design_Lab&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=00d084&show_icons=true" alt="CSE 414 - Mobile Application Design Lab"></a>
-</p>
-
 <div align="center">
-
-<h2 align="center" style="color:#00d084;"> Curated Collections 📚 </h2>
-
-<table border="1" cellpadding="20" width="100%" style="border-collapse: collapse; border-color: #00d084;">
-  <tr>
-    <td width="25%" style="text-align: center; border: 1px solid #00d084;">
-
-<h3 style="text-align: center; color:#00d084;">📖 <a href="https://github.com/stars/ovishkh/lists/docs" style="color:#00d084;">Docs</a></h3>
-
-**Essential Documentation**
-
-Complete guides, best practices & technical references for learning
-
-</td>
-<td width="25%" style="text-align: center; border: 1px solid #00d084;">
-
-<h3 style="text-align: center; color:#00d084;">🔓 <a href="https://github.com/stars/ovishkh/lists/open" style="color:#00d084;">Open Source</a></h3>
-
-**Free & Open Projects**
-
-Community-driven initiatives, transparent development & collaboration opportunities
-
-</td>
-<td width="25%" style="text-align: center; border: 1px solid #00d084;">
-
-<h3 style="text-align: center; color:#00d084;">🚀 <a href="https://github.com/stars/ovishkh/lists/startup" style="color:#00d084;">Startups</a></h3>
-
-**Innovation & Growth**
-
-Scaling startups, innovative ideas & proven success stories
-
-</td>
-<td width="25%" style="text-align: center; border: 1px solid #00d084;">
-
-<h3 style="text-align: center; color:#00d084;">☪️ <a href="https://github.com/stars/ovishkh/lists/islamic" style="color:#00d084;">Islamic</a></h3>
-
-**Islamic Resources**
-
-Quran, Hadith, Islamic knowledge & faith-based projects
-
-</td>
-</tr>
-<tr>
-<td width="25%" style="text-align: center; border: 1px solid #00d084;">
-
-<h3 style="text-align: center; color:#00d084;">🤖 <a href="https://github.com/stars/ovishkh/lists/ai" style="color:#00d084;">AI</a></h3>
-
-**Artificial Intelligence**
-
-ML models, AI frameworks & deep learning resources
-
-</td>
-<td width="25%" style="text-align: center; border: 1px solid #00d084;">
-
-<h3 style="text-align: center; color:#00d084;">🧠 <a href="https://github.com/stars/ovishkh/lists/ml" style="color:#00d084;">Machine Learning</a></h3>
-
-**ML Frameworks & Tools**
-
-TensorFlow, PyTorch, scikit-learn & data science libraries
-
-</td>
-<td width="25%" style="text-align: center; border: 1px solid #00d084;">
-
-<h3 style="text-align: center; color:#00d084;">💬 <a href="https://github.com/stars/ovishkh/lists/language" style="color:#00d084;">Languages</a></h3>
-
-**Programming Languages**
-
-Language ecosystems, compilers & language features
-
-</td>
-<td width="25%" style="text-align: center; border: 1px solid #00d084;">
-
-</td>
-</tr>
-</table>
-
+  <img src="https://raw.githubusercontent.com/ovishkh/ovishkh/output/snake.svg" alt="Snake Animation" />
 </div>
 
 <br>
 
 <div align="center">
 
-## 📦 **Tech Stack**
-
-| **Category**               | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**              | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Hosting / Databases**    | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-%23131313.svg?style=for-the-badge&logo=railway&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)    |
-| **Frameworks & Libraries** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring--Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)                                                                                                                                                           |
-| **ML / DL**                | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Flux](https://img.shields.io/badge/Flux-FF6B35?style=for-the-badge&logoColor=white) ![SeedDance](https://img.shields.io/badge/SeedDance-4A90E2?style=for-the-badge&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)                                                                                                                                                                                                                                                                                                                                             |
-| **AI**                     | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-755139?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Lovable](https://img.shields.io/badge/Lovable-FF4F00?style=for-the-badge&logoColor=white) ![v0](https://img.shields.io/badge/v0-black?style=for-the-badge&logo=vercel&logoColor=white) ![a0](https://img.shields.io/badge/a0-000000?style=for-the-badge&logoColor=white) ![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge&logoColor=white) ![KIMI](https://img.shields.io/badge/KIMI-2F2F2F?style=for-the-badge&logo=kimi&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-007BFF?style=for-the-badge&logo=deepseek&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-6236FF?style=for-the-badge&logo=qwen&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white) |
-| **IDE**                    | ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white) ![Trae](https://img.shields.io/badge/Trae-000000?style=for-the-badge&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-5633a6?style=for-the-badge&logo=cursor&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-black?style=for-the-badge&logo=zed&logoColor=white) ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-C084FC?style=for-the-badge&logo=antigravity&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Tools**                  | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🏆 **Achievements**
+## 🏆 Achievements
 
 <p align="center">
   <img src="./profile/trophy.svg" alt="GitHub Trophies" />
@@ -288,28 +209,12 @@ Language ecosystems, compilers & language features
 
 </div>
 
-<br>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ovishkh/ovishkh/output/snake.svg" alt="Snake Animation" />
-</div>
-
-<br>
-
 <hr>
 
 <div align="center">
-  <h3>Let's Innovate Together 🚀</h3>
-  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
+  <h3>Let's Build Something Great 🚀</h3>
+  <p>Always open to discussing cutting-edge AI integrations, scaling systems, or new startup ventures.</p>
   
-  <a href="https://www.youtube.com/@ovishkh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-  <a href="https://twitter.com/ovishkh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="X" />
-  </a>
   <a href="https://www.linkedin.com/in/ovishkh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
@@ -317,7 +222,7 @@ Language ecosystems, compilers & language features
     <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=00d084&logoColor=white&style=for-the-badge" height="35" alt="Website" />
   </a>
   <a href="https://www.ovishekh.com/call" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="WhatsApp" />
+    <img src="https://img.shields.io/static/v1?message=Contact%20Me&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="WhatsApp" />
   </a>
 </div>
 
