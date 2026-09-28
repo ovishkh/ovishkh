@@ -139,14 +139,14 @@
   <a href="https://github.com/ovishkh/SalamApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=SalamApp&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="SalamApp"></a>
   <a href="https://github.com/ovishkh/Cal-AI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Cal-AI&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="Cal-AI"></a>
   <a href="https://github.com/ovishkh/Character-AI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Character-AI&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="Character AI"></a>
-  <a href="https://github.com/ovishkh/TinyCompiler"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=TinyCompiler&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="TinyCompiler"></a>
-  <a href="https://github.com/ovishkh/AlgoMaze"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AlgoMaze&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AlgoMaze"></a>
 </p>
 
 <details align="center">
   <summary style="font-size: 1.2em; color: #00d084; cursor: pointer; padding: 10px;"><b>Show More Projects & Academic Courses ⬇️</b></summary>
   <br>
   <p align="center">
+    <a href="https://github.com/ovishkh/TinyCompiler"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=TinyCompiler&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="TinyCompiler"></a>
+    <a href="https://github.com/ovishkh/AlgoMaze"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AlgoMaze&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AlgoMaze"></a>
     <a href="https://github.com/ovishkh/AndyOS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AndyOS&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AndyOS"></a>
     <a href="https://github.com/ovishkh/OpenGLS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=OpenGLS&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="OpenGLS"></a>
     <a href="https://github.com/ovishkh/WeatherApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=WeatherApp&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="WeatherApp"></a>
