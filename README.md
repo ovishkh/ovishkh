@@ -66,6 +66,11 @@
     <td width="35%" align="center" style="color:#00d084;"><strong>Tech Stack & Infra</strong></td>
   </tr>
   <tr>
+    <td align="left" style="color:#00d084;">🛡️ <font color="#00d084"><a href="https://www.arklabai.com/sentry">Sentry AI</a></font></td>
+    <td align="left">Cross-platform privacy shield that blocks trackers and AI data harvesting, masks device fingerprints, and helps remove personal data from brokers. <a href="https://www.arklabai.com/contact">Join the waitlist</a>.</td>
+    <td align="left">Browser extension, iOS, Android, macOS, Windows • Network filtering, encrypted DNS, fingerprint protection</td>
+  </tr>
+  <tr>
     <td align="left" style="color:#00d084;">🧠 <font color="#00d084"><a href="https://www.ovishekh.com/notes/wisdomic-demo">Wisdomic AI</a></font> <br><span style="background-color:#00d084; color:white; padding:2px 6px; border-radius:3px; font-size:10px; font-weight:bold;">[Acquired'25]</span></td>
     <td align="left">AI research agent for literature review and academic analysis. Successfully scaled and acquired.</td>
     <td align="left">React, Node.js, FastAPI, DeepSeek • <strong>GCP</strong></td>
@@ -135,7 +140,7 @@
 <p align="center">
   <a href="https://github.com/ovishkh/Al-powered_multi-threaded_highly-scalable_calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Al-powered_multi-threaded_highly-scalable_calculator&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="Calculator"></a>
   <a href="https://github.com/ovishkh/ChessLM"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=ChessLM&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="ChessLM"></a>
-  <a href="https://github.com/ovishkh/anygpt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=anygpt&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AnyGPT"></a>
+  <a href="https://github.com/ovishkh/borno-ai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=borno-ai&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="Borno AI"></a>
   <a href="https://github.com/ovishkh/SalamApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=SalamApp&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="SalamApp"></a>
   <a href="https://github.com/ovishkh/Cal-AI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Cal-AI&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="Cal-AI"></a>
   <a href="https://github.com/ovishkh/Character-AI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Character-AI&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="Character AI"></a>
@@ -146,6 +151,9 @@
   <br>
   <p align="center">
     <a href="https://github.com/ovishkh/TinyCompiler"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=TinyCompiler&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="TinyCompiler"></a>
+    <a href="https://github.com/ovishkh/anygpt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=anygpt&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AnyGPT"></a>
+    <a href="https://github.com/ovishkh/CohortsHub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=CohortsHub&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="CohortsHub"></a>
+    <a href="https://github.com/ovishkh/Multi-Tenant-Wallet-API"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=Multi-Tenant-Wallet-API&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="Multi-Tenant Wallet API"></a>
     <a href="https://github.com/ovishkh/AlgoMaze"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AlgoMaze&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AlgoMaze"></a>
     <a href="https://github.com/ovishkh/AndyOS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=AndyOS&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="AndyOS"></a>
     <a href="https://github.com/ovishkh/OpenGLS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ovishkh&repo=OpenGLS&theme=react&bg_color=1F222E&title_color=00d084&hide_border=true&icon_color=F8D866&show_icons=true" alt="OpenGLS"></a>
