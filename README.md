@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td align="left" style="color:#00d084;">🛡️ <font color="#00d084"><a href="https://www.arklabai.com/sentry">Sentry AI</a></font></td>
-    <td align="left">Cross-platform privacy shield that blocks trackers and AI data harvesting, masks device fingerprints, and helps remove personal data from brokers. <a href="https://www.arklabai.com/contact">Join the waitlist</a>.</td>
+    <td align="left">Cross-platform privacy shield that blocks invasive tracking, masks device fingerprints, prevents AI training on your personal data, and automates data-broker removals across browser, mobile, and desktop.</td>
     <td align="left">Browser extension, iOS, Android, macOS, Windows • Network filtering, encrypted DNS, fingerprint protection</td>
   </tr>
   <tr>
